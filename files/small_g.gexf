@@ -1,0 +1,559 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2022-08-05">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="Co-citations">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Nature" label="Nature" />
+      <node id="Science" label="Science" />
+      <node id="Genome Res" label="Genome Res" />
+      <node id="Proc Natl Acad Sci USA" label="Proc Natl Acad Sci USA" />
+      <node id="J Biol Chem" label="J Biol Chem" />
+      <node id="Cell" label="Cell" />
+      <node id="LPSN" label="LPSN" />
+      <node id="wwwuniprotorg" label="wwwuniprotorg" />
+      <node id="Proceedings of the National Academy of Sciences of the United States of America" label="Proceedings of the National Academy of Sciences of the United States of America" />
+      <node id="Nat Genet" label="Nat Genet" />
+      <node id="International Journal of Systematic and Evolutionary Microbiology" label="International Journal of Systematic and Evolutionary Microbiology" />
+      <node id="The Journal of Biological Chemistry" label="The Journal of Biological Chemistry" />
+      <node id="Genomics" label="Genomics" />
+      <node id="Proceedings of the National Academy of Sciences" label="Proceedings of the National Academy of Sciences" />
+      <node id="The NamesforLife Abstracts" label="The NamesforLife Abstracts" />
+      <node id="Biochem Biophys Res Commun" label="Biochem Biophys Res Commun" />
+      <node id="wwwdsmzde" label="wwwdsmzde" />
+      <node id="Gene" label="Gene" />
+      <node id="Biochemical and Biophysical Research Communications" label="Biochemical and Biophysical Research Communications" />
+      <node id="Mol Cell Biol" label="Mol Cell Biol" />
+      <node id="Nature Communications" label="Nature Communications" />
+      <node id="PLOS ONE" label="PLOS ONE" />
+      <node id="EMBO J" label="EMBO J" />
+      <node id="Astronomy and Astrophysics" label="Astronomy and Astrophysics" />
+      <node id="The Astrophysical Journal" label="The Astrophysical Journal" />
+      <node id="Current Biology" label="Current Biology" />
+      <node id="Monthly Notices of the Royal Astronomical Society" label="Monthly Notices of the Royal Astronomical Society" />
+      <node id="FEBS Lett" label="FEBS Lett" />
+      <node id="Nucleic Acids Res" label="Nucleic Acids Res" />
+      <node id="Biochemistry" label="Biochemistry" />
+      <node id="Scientific Reports" label="Scientific Reports" />
+      <node id="The Astronomical Journal" label="The Astronomical Journal" />
+      <node id="Oncogene" label="Oncogene" />
+      <node id="FEBS Letters" label="FEBS Letters" />
+      <node id="wwwstraininfonet" label="wwwstraininfonet" />
+      <node id="The EMBO Journal" label="The EMBO Journal" />
+      <node id="Biochem J" label="Biochem J" />
+      <node id="Molecular and Cellular Biology" label="Molecular and Cellular Biology" />
+      <node id="Biochimica et Biophysica Acta" label="Biochimica et Biophysica Acta" />
+      <node id="DNA Res" label="DNA Res" />
+      <node id="Biochim Biophys Acta" label="Biochim Biophys Acta" />
+      <node id="PLoS ONE" label="PLoS ONE" />
+      <node id="Nucleic Acids Research" label="Nucleic Acids Research" />
+      <node id="Nature Genetics" label="Nature Genetics" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Nature" target="Science">
+        <attvalues>
+          <attvalue for="0" value="6180" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Nature" target="Proc Natl Acad Sci USA">
+        <attvalues>
+          <attvalue for="0" value="3587" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Nature" target="Cell">
+        <attvalues>
+          <attvalue for="0" value="3230" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Nature" target="Proceedings of the National Academy of Sciences of the United States of America">
+        <attvalues>
+          <attvalue for="0" value="2570" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Nature" target="J Biol Chem">
+        <attvalues>
+          <attvalue for="0" value="2357" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Nature" target="Genome Res">
+        <attvalues>
+          <attvalue for="0" value="2306" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Nature" target="The Journal of Biological Chemistry">
+        <attvalues>
+          <attvalue for="0" value="1711" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Nature" target="Proceedings of the National Academy of Sciences">
+        <attvalues>
+          <attvalue for="0" value="1654" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Nature" target="Genomics">
+        <attvalues>
+          <attvalue for="0" value="1627" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Nature" target="Nat Genet">
+        <attvalues>
+          <attvalue for="0" value="1435" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Nature" target="Gene">
+        <attvalues>
+          <attvalue for="0" value="1277" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Nature" target="Nature Communications">
+        <attvalues>
+          <attvalue for="0" value="1081" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Nature" target="PLOS ONE">
+        <attvalues>
+          <attvalue for="0" value="1034" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Nature" target="Current Biology">
+        <attvalues>
+          <attvalue for="0" value="999" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Nature" target="Scientific Reports">
+        <attvalues>
+          <attvalue for="0" value="871" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Nature" target="Biochem Biophys Res Commun">
+        <attvalues>
+          <attvalue for="0" value="870" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Nature" target="Oncogene">
+        <attvalues>
+          <attvalue for="0" value="868" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Nature" target="Biochemistry">
+        <attvalues>
+          <attvalue for="0" value="846" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Nature" target="Mol Cell Biol">
+        <attvalues>
+          <attvalue for="0" value="789" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Nature" target="EMBO J">
+        <attvalues>
+          <attvalue for="0" value="766" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Nature" target="PLoS ONE">
+        <attvalues>
+          <attvalue for="0" value="763" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Nature" target="The EMBO Journal">
+        <attvalues>
+          <attvalue for="0" value="735" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Nature" target="Nature Genetics">
+        <attvalues>
+          <attvalue for="0" value="720" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Science" target="Proceedings of the National Academy of Sciences of the United States of America">
+        <attvalues>
+          <attvalue for="0" value="2185" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Science" target="Cell">
+        <attvalues>
+          <attvalue for="0" value="1915" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Science" target="Proceedings of the National Academy of Sciences">
+        <attvalues>
+          <attvalue for="0" value="1643" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Science" target="Proc Natl Acad Sci USA">
+        <attvalues>
+          <attvalue for="0" value="1499" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Science" target="The Journal of Biological Chemistry">
+        <attvalues>
+          <attvalue for="0" value="1129" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Science" target="J Biol Chem">
+        <attvalues>
+          <attvalue for="0" value="1080" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Science" target="Nature Communications">
+        <attvalues>
+          <attvalue for="0" value="936" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Science" target="PLOS ONE">
+        <attvalues>
+          <attvalue for="0" value="915" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Science" target="Current Biology">
+        <attvalues>
+          <attvalue for="0" value="842" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Science" target="Scientific Reports">
+        <attvalues>
+          <attvalue for="0" value="802" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Genome Res" target="Proc Natl Acad Sci USA">
+        <attvalues>
+          <attvalue for="0" value="3875" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Genome Res" target="J Biol Chem">
+        <attvalues>
+          <attvalue for="0" value="2346" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Genome Res" target="Nat Genet">
+        <attvalues>
+          <attvalue for="0" value="2036" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Genome Res" target="Genomics">
+        <attvalues>
+          <attvalue for="0" value="1270" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Genome Res" target="Cell">
+        <attvalues>
+          <attvalue for="0" value="1102" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Genome Res" target="Gene">
+        <attvalues>
+          <attvalue for="0" value="1057" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Genome Res" target="Biochem Biophys Res Commun">
+        <attvalues>
+          <attvalue for="0" value="905" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Proc Natl Acad Sci USA" target="J Biol Chem">
+        <attvalues>
+          <attvalue for="0" value="3723" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Proc Natl Acad Sci USA" target="Nat Genet">
+        <attvalues>
+          <attvalue for="0" value="2425" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Proc Natl Acad Sci USA" target="Genomics">
+        <attvalues>
+          <attvalue for="0" value="1908" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Proc Natl Acad Sci USA" target="Cell">
+        <attvalues>
+          <attvalue for="0" value="1757" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Proc Natl Acad Sci USA" target="Biochem Biophys Res Commun">
+        <attvalues>
+          <attvalue for="0" value="1431" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Proc Natl Acad Sci USA" target="Gene">
+        <attvalues>
+          <attvalue for="0" value="1377" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Proc Natl Acad Sci USA" target="Mol Cell Biol">
+        <attvalues>
+          <attvalue for="0" value="1123" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Proc Natl Acad Sci USA" target="EMBO J">
+        <attvalues>
+          <attvalue for="0" value="1024" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Proc Natl Acad Sci USA" target="FEBS Lett">
+        <attvalues>
+          <attvalue for="0" value="913" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Proc Natl Acad Sci USA" target="Nucleic Acids Res">
+        <attvalues>
+          <attvalue for="0" value="912" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Proc Natl Acad Sci USA" target="DNA Res">
+        <attvalues>
+          <attvalue for="0" value="798" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Proc Natl Acad Sci USA" target="Oncogene">
+        <attvalues>
+          <attvalue for="0" value="774" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="J Biol Chem" target="Genomics">
+        <attvalues>
+          <attvalue for="0" value="1477" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="J Biol Chem" target="Nat Genet">
+        <attvalues>
+          <attvalue for="0" value="1452" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="J Biol Chem" target="Biochem Biophys Res Commun">
+        <attvalues>
+          <attvalue for="0" value="1414" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="J Biol Chem" target="Cell">
+        <attvalues>
+          <attvalue for="0" value="1352" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="J Biol Chem" target="Mol Cell Biol">
+        <attvalues>
+          <attvalue for="0" value="1106" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="J Biol Chem" target="EMBO J">
+        <attvalues>
+          <attvalue for="0" value="1031" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="J Biol Chem" target="Gene">
+        <attvalues>
+          <attvalue for="0" value="994" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="J Biol Chem" target="FEBS Lett">
+        <attvalues>
+          <attvalue for="0" value="959" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="J Biol Chem" target="Biochemistry">
+        <attvalues>
+          <attvalue for="0" value="875" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="J Biol Chem" target="Biochem J">
+        <attvalues>
+          <attvalue for="0" value="851" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="J Biol Chem" target="Biochim Biophys Acta">
+        <attvalues>
+          <attvalue for="0" value="794" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="J Biol Chem" target="Oncogene">
+        <attvalues>
+          <attvalue for="0" value="731" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="Cell" target="Proceedings of the National Academy of Sciences of the United States of America">
+        <attvalues>
+          <attvalue for="0" value="1374" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="Cell" target="The Journal of Biological Chemistry">
+        <attvalues>
+          <attvalue for="0" value="1332" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="Cell" target="Genomics">
+        <attvalues>
+          <attvalue for="0" value="1006" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="Cell" target="Nat Genet">
+        <attvalues>
+          <attvalue for="0" value="778" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="Cell" target="Gene">
+        <attvalues>
+          <attvalue for="0" value="775" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="Cell" target="Oncogene">
+        <attvalues>
+          <attvalue for="0" value="751" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="LPSN" target="wwwuniprotorg">
+        <attvalues>
+          <attvalue for="0" value="2781" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="LPSN" target="International Journal of Systematic and Evolutionary Microbiology">
+        <attvalues>
+          <attvalue for="0" value="2312" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="LPSN" target="The NamesforLife Abstracts">
+        <attvalues>
+          <attvalue for="0" value="1623" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="LPSN" target="wwwdsmzde">
+        <attvalues>
+          <attvalue for="0" value="1395" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="LPSN" target="wwwstraininfonet">
+        <attvalues>
+          <attvalue for="0" value="861" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="wwwuniprotorg" target="International Journal of Systematic and Evolutionary Microbiology">
+        <attvalues>
+          <attvalue for="0" value="2180" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="wwwuniprotorg" target="The NamesforLife Abstracts">
+        <attvalues>
+          <attvalue for="0" value="1514" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="wwwuniprotorg" target="wwwdsmzde">
+        <attvalues>
+          <attvalue for="0" value="1369" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="wwwuniprotorg" target="wwwstraininfonet">
+        <attvalues>
+          <attvalue for="0" value="827" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="Proceedings of the National Academy of Sciences of the United States of America" target="The Journal of Biological Chemistry">
+        <attvalues>
+          <attvalue for="0" value="2036" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="Proceedings of the National Academy of Sciences of the United States of America" target="Biochemical and Biophysical Research Communications">
+        <attvalues>
+          <attvalue for="0" value="776" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="Proceedings of the National Academy of Sciences of the United States of America" target="Nucleic Acids Research">
+        <attvalues>
+          <attvalue for="0" value="739" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="Proceedings of the National Academy of Sciences of the United States of America" target="Genomics">
+        <attvalues>
+          <attvalue for="0" value="734" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="Nat Genet" target="Genomics">
+        <attvalues>
+          <attvalue for="0" value="724" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="International Journal of Systematic and Evolutionary Microbiology" target="The NamesforLife Abstracts">
+        <attvalues>
+          <attvalue for="0" value="1487" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="International Journal of Systematic and Evolutionary Microbiology" target="wwwdsmzde">
+        <attvalues>
+          <attvalue for="0" value="1065" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="The Journal of Biological Chemistry" target="Biochemical and Biophysical Research Communications">
+        <attvalues>
+          <attvalue for="0" value="1168" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="The Journal of Biological Chemistry" target="Genomics">
+        <attvalues>
+          <attvalue for="0" value="970" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="The Journal of Biological Chemistry" target="FEBS Letters">
+        <attvalues>
+          <attvalue for="0" value="862" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="The Journal of Biological Chemistry" target="The EMBO Journal">
+        <attvalues>
+          <attvalue for="0" value="859" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="The Journal of Biological Chemistry" target="Molecular and Cellular Biology">
+        <attvalues>
+          <attvalue for="0" value="848" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="The Journal of Biological Chemistry" target="Biochemistry">
+        <attvalues>
+          <attvalue for="0" value="819" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="The Journal of Biological Chemistry" target="Biochimica et Biophysica Acta">
+        <attvalues>
+          <attvalue for="0" value="801" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="Genomics" target="Gene">
+        <attvalues>
+          <attvalue for="0" value="824" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="The NamesforLife Abstracts" target="wwwdsmzde">
+        <attvalues>
+          <attvalue for="0" value="736" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="Astronomy and Astrophysics" target="The Astrophysical Journal">
+        <attvalues>
+          <attvalue for="0" value="1020" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="Astronomy and Astrophysics" target="Monthly Notices of the Royal Astronomical Society">
+        <attvalues>
+          <attvalue for="0" value="916" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="Astronomy and Astrophysics" target="The Astronomical Journal">
+        <attvalues>
+          <attvalue for="0" value="767" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="The Astrophysical Journal" target="Monthly Notices of the Royal Astronomical Society">
+        <attvalues>
+          <attvalue for="0" value="994" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="The Astrophysical Journal" target="The Astronomical Journal">
+        <attvalues>
+          <attvalue for="0" value="869" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
