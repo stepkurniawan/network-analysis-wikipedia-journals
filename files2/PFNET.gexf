@@ -1,0 +1,975 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-05">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Nature" label="Nature" />
+      <node id="PNAS" label="PNAS" />
+      <node id="Science" label="Science" />
+      <node id="Journal of Biological Chemistry" label="Journal of Biological Chemistry" />
+      <node id="Genome Res" label="Genome Res" />
+      <node id="Cell" label="Cell" />
+      <node id="LPSN" label="LPSN" />
+      <node id="wwwuniprotorg" label="wwwuniprotorg" />
+      <node id="Biochemical and Biophysical Research Communications" label="Biochemical and Biophysical Research Communications" />
+      <node id="Genomics" label="Genomics" />
+      <node id="Nat Genet" label="Nat Genet" />
+      <node id="International Journal of Systematic and Evolutionary Microbiology" label="International Journal of Systematic and Evolutionary Microbiology" />
+      <node id="PLoS ONE" label="PLoS ONE" />
+      <node id="Gene" label="Gene" />
+      <node id="Biochemistry" label="Biochemistry" />
+      <node id="The NamesforLife Abstracts" label="The NamesforLife Abstracts" />
+      <node id="The Biochemical Journal" label="The Biochemical Journal" />
+      <node id="wwwdsmzde" label="wwwdsmzde" />
+      <node id="Oncogene" label="Oncogene" />
+      <node id="Mol Cell Biol" label="Mol Cell Biol" />
+      <node id="Nature Communications" label="Nature Communications" />
+      <node id="EMBO J" label="EMBO J" />
+      <node id="Astronomy and Astrophysics" label="Astronomy and Astrophysics" />
+      <node id="The Astrophysical Journal" label="The Astrophysical Journal" />
+      <node id="Current Biology" label="Current Biology" />
+      <node id="Monthly Notices of the Royal Astronomical Society" label="Monthly Notices of the Royal Astronomical Society" />
+      <node id="FEBS Lett" label="FEBS Lett" />
+      <node id="Nucleic Acids Res" label="Nucleic Acids Res" />
+      <node id="FEBS Letters" label="FEBS Letters" />
+      <node id="Nucleic Acids Research" label="Nucleic Acids Research" />
+      <node id="Molecular and Cellular Biology" label="Molecular and Cellular Biology" />
+      <node id="The EMBO Journal" label="The EMBO Journal" />
+      <node id="Biochimica et Biophysica Acta" label="Biochimica et Biophysica Acta" />
+      <node id="Blood" label="Blood" />
+      <node id="Scientific Reports" label="Scientific Reports" />
+      <node id="The Astronomical Journal" label="The Astronomical Journal" />
+      <node id="wwwstraininfonet" label="wwwstraininfonet" />
+      <node id="Biochim Biophys Acta" label="Biochim Biophys Acta" />
+      <node id="DNA Res" label="DNA Res" />
+      <node id="Genome Research" label="Genome Research" />
+      <node id="Nature Genetics" label="Nature Genetics" />
+      <node id="Astronomy  Astrophysics" label="Astronomy  Astrophysics" />
+      <node id="Physical Review Letters" label="Physical Review Letters" />
+      <node id="BMJ" label="BMJ" />
+      <node id="Lancet" label="Lancet" />
+      <node id="J Cell Biol" label="J Cell Biol" />
+      <node id="Neuron" label="Neuron" />
+      <node id="Journal of Molecular Biology" label="Journal of Molecular Biology" />
+      <node id="Hum Mol Genet" label="Hum Mol Genet" />
+      <node id="J Mol Biol" label="J Mol Biol" />
+      <node id="The Journal of Cell Biology" label="The Journal of Cell Biology" />
+      <node id="Am J Hum Genet" label="Am J Hum Genet" />
+      <node id="Cancer Res" label="Cancer Res" />
+      <node id="Nat Biotechnol" label="Nat Biotechnol" />
+      <node id="JAMA" label="JAMA" />
+      <node id="Molecular Cell" label="Molecular Cell" />
+      <node id="Curr Biol" label="Curr Biol" />
+      <node id="American Journal of Human Genetics" label="American Journal of Human Genetics" />
+      <node id="Journal of Vertebrate Paleontology" label="Journal of Vertebrate Paleontology" />
+      <node id="Cancer Research" label="Cancer Research" />
+      <node id="The Cochrane Database of Systematic Reviews" label="The Cochrane Database of Systematic Reviews" />
+      <node id="Journal of the American Chemical Society" label="Journal of the American Chemical Society" />
+      <node id="Human Molecular Genetics" label="Human Molecular Genetics" />
+      <node id="Genes  Development" label="Genes  Development" />
+      <node id="Genes Dev" label="Genes Dev" />
+      <node id="The New England Journal of Medicine" label="The New England Journal of Medicine" />
+      <node id="Mol Cell" label="Mol Cell" />
+      <node id="Eur J Biochem" label="Eur J Biochem" />
+      <node id="Scientific American" label="Scientific American" />
+      <node id="Proc Natl Acad Sci U S A" label="Proc Natl Acad Sci U S A" />
+      <node id="J Cell Sci" label="J Cell Sci" />
+      <node id="Proceedings of the Royal Society B Biological Sciences" label="Proceedings of the Royal Society B Biological Sciences" />
+      <node id="Molecular Biology and Evolution" label="Molecular Biology and Evolution" />
+      <node id="Mol Biol Cell" label="Mol Biol Cell" />
+      <node id="Genetics" label="Genetics" />
+      <node id="J Immunol" label="J Immunol" />
+      <node id="Journal of Immunology" label="Journal of Immunology" />
+      <node id="Journal of Cell Science" label="Journal of Cell Science" />
+      <node id="The Journal of Neuroscience" label="The Journal of Neuroscience" />
+      <node id="The Journal of Clinical Investigation" label="The Journal of Clinical Investigation" />
+      <node id="Cytogenet Cell Genet" label="Cytogenet Cell Genet" />
+      <node id="Structure" label="Structure" />
+      <node id="Development" label="Development" />
+      <node id="Nature Biotechnology" label="Nature Biotechnology" />
+      <node id="New England Journal of Medicine" label="New England Journal of Medicine" />
+      <node id="Nature Medicine" label="Nature Medicine" />
+      <node id="Genome Biology" label="Genome Biology" />
+      <node id="Journal of Virology" label="Journal of Virology" />
+      <node id="Mol Syst Biol" label="Mol Syst Biol" />
+      <node id="Acta Ophthalmologica" label="Acta Ophthalmologica" />
+      <node id="Entertainment Weekly" label="Entertainment Weekly" />
+      <node id="Rolling Stone" label="Rolling Stone" />
+      <node id="Hum Genet" label="Hum Genet" />
+      <node id="Geophysical Research Letters" label="Geophysical Research Letters" />
+      <node id="Journal of Geophysical Research" label="Journal of Geophysical Research" />
+      <node id="Astronomy Letters" label="Astronomy Letters" />
+      <node id="Zoological Journal of the Linnean Society" label="Zoological Journal of the Linnean Society" />
+      <node id="Angewandte Chemie International Edition" label="Angewandte Chemie International Edition" />
+      <node id="Molecular Biology of the Cell" label="Molecular Biology of the Cell" />
+      <node id="Physical Review B" label="Physical Review B" />
+      <node id="Astrophysical Journal" label="Astrophysical Journal" />
+      <node id="Geology" label="Geology" />
+      <node id="Palaeontology" label="Palaeontology" />
+      <node id="Icarus" label="Icarus" />
+      <node id="Genome Biol" label="Genome Biol" />
+      <node id="Acta Palaeontologica Polonica" label="Acta Palaeontologica Polonica" />
+      <node id="BMC Evolutionary Biology" label="BMC Evolutionary Biology" />
+      <node id="Journal of Bacteriology" label="Journal of Bacteriology" />
+      <node id="Nat Cell Biol" label="Nat Cell Biol" />
+      <node id="Nature Neuroscience" label="Nature Neuroscience" />
+      <node id="BioEssays" label="BioEssays" />
+      <node id="Annals of the New York Academy of Sciences" label="Annals of the New York Academy of Sciences" />
+      <node id="Molecular Phylogenetics and Evolution" label="Molecular Phylogenetics and Evolution" />
+      <node id="PeerJ" label="PeerJ" />
+      <node id="Mycologia" label="Mycologia" />
+      <node id="Mycotaxon" label="Mycotaxon" />
+      <node id="Virology" label="Virology" />
+      <node id="J Neurosci" label="J Neurosci" />
+      <node id="EMBO Rep" label="EMBO Rep" />
+      <node id="Biology Letters" label="Biology Letters" />
+      <node id="J Virol" label="J Virol" />
+      <node id="Spin" label="Spin" />
+      <node id="Nature Reviews Genetics" label="Nature Reviews Genetics" />
+      <node id="Evolution" label="Evolution" />
+      <node id="PLOS Biology" label="PLOS Biology" />
+      <node id="J Clin Invest" label="J Clin Invest" />
+      <node id="Q" label="Q" />
+      <node id="Human Genetics" label="Human Genetics" />
+      <node id="Archives of Biochemistry and Biophysics" label="Archives of Biochemistry and Biophysics" />
+      <node id="Nature Cell Biology" label="Nature Cell Biology" />
+      <node id="The Astrophysical Journal Letters" label="The Astrophysical Journal Letters" />
+      <node id="Endocrinology" label="Endocrinology" />
+      <node id="Physical Review D" label="Physical Review D" />
+      <node id="Chemical Reviews" label="Chemical Reviews" />
+      <node id="eLife" label="eLife" />
+      <node id="NME" label="NME" />
+      <node id="Annals of Internal Medicine" label="Annals of Internal Medicine" />
+      <node id="Earth and Planetary Science Letters" label="Earth and Planetary Science Letters" />
+      <node id="Journal of Paleontology" label="Journal of Paleontology" />
+      <node id="Fauna of New Zealand" label="Fauna of New Zealand" />
+      <node id="Transactions and Proceedings of the New Zealand Institute" label="Transactions and Proceedings of the New Zealand Institute" />
+      <node id="Nature Reviews Molecular Cell Biology" label="Nature Reviews Molecular Cell Biology" />
+      <node id="Exp Cell Res" label="Exp Cell Res" />
+      <node id="BMC Genomics" label="BMC Genomics" />
+      <node id="Journal of Mammalogy" label="Journal of Mammalogy" />
+      <node id="Mammalian Species" label="Mammalian Species" />
+      <node id="Cochrane Database of Systematic Reviews" label="Cochrane Database of Systematic Reviews" />
+      <node id="Arch Biochem Biophys" label="Arch Biochem Biophys" />
+      <node id="N Engl J Med" label="N Engl J Med" />
+      <node id="CDSADC Collection of Electronic Catalogues" label="CDSADC Collection of Electronic Catalogues" />
+      <node id="Immunity" label="Immunity" />
+      <node id="Publications of the Astronomical Society of the Pacific" label="Publications of the Astronomical Society of the Pacific" />
+      <node id="Journal of Systematic Palaeontology" label="Journal of Systematic Palaeontology" />
+      <node id="Proceedings of the Royal Society B" label="Proceedings of the Royal Society B" />
+      <node id="Zootaxa" label="Zootaxa" />
+      <node id="Nature Reviews Neuroscience" label="Nature Reviews Neuroscience" />
+      <node id="Journal of Personality and Social Psychology" label="Journal of Personality and Social Psychology" />
+      <node id="Psychological Bulletin" label="Psychological Bulletin" />
+      <node id="European Journal of Biochemistry" label="European Journal of Biochemistry" />
+      <node id="Physical Review" label="Physical Review" />
+      <node id="Science Advances" label="Science Advances" />
+      <node id="FASEB Journal" label="FASEB Journal" />
+      <node id="Animal Behaviour" label="Animal Behaviour" />
+      <node id="Behavioral Ecology and Sociobiology" label="Behavioral Ecology and Sociobiology" />
+      <node id="Reviews of Modern Physics" label="Reviews of Modern Physics" />
+      <node id="Billboard" label="Billboard" />
+      <node id="Biographical Memoirs of Fellows of the Royal Society" label="Biographical Memoirs of Fellows of the Royal Society" />
+      <node id="Cretaceous Research" label="Cretaceous Research" />
+      <node id="J Am Chem Soc" label="J Am Chem Soc" />
+      <node id="The Astrophysical Journal Supplement Series" label="The Astrophysical Journal Supplement Series" />
+      <node id="BioScience" label="BioScience" />
+      <node id="EMBO Reports" label="EMBO Reports" />
+      <node id="Annual Review of Biochemistry" label="Annual Review of Biochemistry" />
+      <node id="Nature Geoscience" label="Nature Geoscience" />
+      <node id="Naturwissenschaften" label="Naturwissenschaften" />
+      <node id="RNA" label="RNA" />
+      <node id="The American Naturalist" label="The American Naturalist" />
+      <node id="Pediatrics" label="Pediatrics" />
+      <node id="PLoS Biology" label="PLoS Biology" />
+      <node id="British Medical Journal" label="British Medical Journal" />
+      <node id="New Scientist" label="New Scientist" />
+      <node id="Palaeogeography Palaeoclimatology Palaeoecology" label="Palaeogeography Palaeoclimatology Palaeoecology" />
+      <node id="The Journal of Experimental Medicine" label="The Journal of Experimental Medicine" />
+      <node id="Circulation" label="Circulation" />
+      <node id="Experimental Cell Research" label="Experimental Cell Research" />
+      <node id="Journal of Theoretical Biology" label="Journal of Theoretical Biology" />
+      <node id="Botanical Journal of the Linnean Society" label="Botanical Journal of the Linnean Society" />
+      <node id="Phytotaxa" label="Phytotaxa" />
+      <node id="Physical Review A" label="Physical Review A" />
+      <node id="Mol Cell Proteomics" label="Mol Cell Proteomics" />
+      <node id="Physics Today" label="Physics Today" />
+      <node id="Cellular and Molecular Life Sciences" label="Cellular and Molecular Life Sciences" />
+      <node id="Trends in Genetics" label="Trends in Genetics" />
+      <node id="Neurology" label="Neurology" />
+      <node id="Circulation Research" label="Circulation Research" />
+      <node id="Anal Biochem" label="Anal Biochem" />
+      <node id="J Exp Med" label="J Exp Med" />
+      <node id="DNA Research" label="DNA Research" />
+      <node id="Int J Cancer" label="Int J Cancer" />
+      <node id="Trends in Ecology  Evolution" label="Trends in Ecology  Evolution" />
+      <node id="Cytogenetics and Cell Genetics" label="Cytogenetics and Cell Genetics" />
+      <node id="ZooKeys" label="ZooKeys" />
+      <node id="Trends in Biochemical Sciences" label="Trends in Biochemical Sciences" />
+      <node id="Nature Structural  Molecular Biology" label="Nature Structural  Molecular Biology" />
+      <node id="Neuroscience" label="Neuroscience" />
+      <node id="Journal of Human Evolution" label="Journal of Human Evolution" />
+      <node id="Ecology" label="Ecology" />
+      <node id="Applied and Environmental Microbiology" label="Applied and Environmental Microbiology" />
+      <node id="Cell Cycle" label="Cell Cycle" />
+      <node id="FASEB J" label="FASEB J" />
+      <node id="Human Mutation" label="Human Mutation" />
+      <node id="American Journal of Physical Anthropology" label="American Journal of Physical Anthropology" />
+      <node id="American Family Physician" label="American Family Physician" />
+      <node id="Diabetes" label="Diabetes" />
+      <node id="Molecular Ecology" label="Molecular Ecology" />
+      <node id="PLOS Genetics" label="PLOS Genetics" />
+      <node id="VizieR Online Data Catalog Bgcvs  Originally Published in 2009yCat102025S" label="VizieR Online Data Catalog Bgcvs  Originally Published in 2009yCat102025S" />
+      <node id="The New York Times" label="The New York Times" />
+      <node id="Variety" label="Variety" />
+      <node id="Bioinformatics" label="Bioinformatics" />
+      <node id="Psychological Science" label="Psychological Science" />
+      <node id="Nature Reviews Microbiology" label="Nature Reviews Microbiology" />
+      <node id="Personality and Social Psychology Bulletin" label="Personality and Social Psychology Bulletin" />
+      <node id="The Journal of Organic Chemistry" label="The Journal of Organic Chemistry" />
+      <node id="Journal of Experimental Biology" label="Journal of Experimental Biology" />
+      <node id="Journal of Neurochemistry" label="Journal of Neurochemistry" />
+      <node id="International Journal of Cancer" label="International Journal of Cancer" />
+      <node id="Philosophical Transactions of the Royal Society B Biological Sciences" label="Philosophical Transactions of the Royal Society B Biological Sciences" />
+      <node id="Mamm Genome" label="Mamm Genome" />
+      <node id="Psychological Review" label="Psychological Review" />
+    </nodes>
+    <edges>
+      <edge source="Nature" target="Astronomy and Astrophysics" id="0" weight="279" />
+      <edge source="Nature" target="Monthly Notices of the Royal Astronomical Society" id="1" weight="388" />
+      <edge source="Nature" target="FEBS Lett" id="2" weight="542" />
+      <edge source="Nature" target="Nucleic Acids Res" id="3" weight="663" />
+      <edge source="Nature" target="FEBS Letters" id="4" weight="539" />
+      <edge source="Nature" target="Biochimica et Biophysica Acta" id="5" weight="490" />
+      <edge source="Nature" target="The Astronomical Journal" id="6" weight="256" />
+      <edge source="Nature" target="Biochim Biophys Acta" id="7" weight="430" />
+      <edge source="Nature" target="DNA Res" id="8" weight="456" />
+      <edge source="Nature" target="Astronomy  Astrophysics" id="9" weight="257" />
+      <edge source="Nature" target="BMJ" id="10" weight="294" />
+      <edge source="Nature" target="J Cell Biol" id="11" weight="445" />
+      <edge source="Nature" target="Journal of Molecular Biology" id="12" weight="534" />
+      <edge source="Nature" target="Hum Mol Genet" id="13" weight="329" />
+      <edge source="Nature" target="J Mol Biol" id="14" weight="375" />
+      <edge source="Nature" target="The Journal of Cell Biology" id="15" weight="407" />
+      <edge source="Nature" target="Am J Hum Genet" id="16" weight="323" />
+      <edge source="Nature" target="Cancer Res" id="17" weight="368" />
+      <edge source="Nature" target="Nat Biotechnol" id="18" weight="365" />
+      <edge source="Nature" target="JAMA" id="19" weight="273" />
+      <edge source="Nature" target="Molecular Cell" id="20" weight="504" />
+      <edge source="Nature" target="Curr Biol" id="21" weight="437" />
+      <edge source="Nature" target="American Journal of Human Genetics" id="22" weight="426" />
+      <edge source="Nature" target="Journal of Vertebrate Paleontology" id="23" weight="396" />
+      <edge source="Nature" target="Cancer Research" id="24" weight="391" />
+      <edge source="Nature" target="Journal of the American Chemical Society" id="25" weight="473" />
+      <edge source="Nature" target="Human Molecular Genetics" id="26" weight="389" />
+      <edge source="Nature" target="Genes  Development" id="27" weight="468" />
+      <edge source="Nature" target="Genes Dev" id="28" weight="369" />
+      <edge source="Nature" target="The New England Journal of Medicine" id="29" weight="371" />
+      <edge source="Nature" target="Mol Cell" id="30" weight="397" />
+      <edge source="Nature" target="Eur J Biochem" id="31" weight="239" />
+      <edge source="Nature" target="Scientific American" id="32" weight="475" />
+      <edge source="Nature" target="Proc Natl Acad Sci U S A" id="33" weight="401" />
+      <edge source="Nature" target="J Cell Sci" id="34" weight="313" />
+      <edge source="Nature" target="Proceedings of the Royal Society B Biological Sciences" id="35" weight="456" />
+      <edge source="Nature" target="Molecular Biology and Evolution" id="36" weight="415" />
+      <edge source="Nature" target="Mol Biol Cell" id="37" weight="315" />
+      <edge source="Nature" target="Genetics" id="38" weight="443" />
+      <edge source="Nature" target="J Immunol" id="39" weight="267" />
+      <edge source="Nature" target="Journal of Immunology" id="40" weight="331" />
+      <edge source="Nature" target="Journal of Cell Science" id="41" weight="302" />
+      <edge source="Nature" target="The Journal of Neuroscience" id="42" weight="407" />
+      <edge source="Nature" target="The Journal of Clinical Investigation" id="43" weight="312" />
+      <edge source="Nature" target="Cytogenet Cell Genet" id="44" weight="223" />
+      <edge source="Nature" target="Structure" id="45" weight="267" />
+      <edge source="Nature" target="Development" id="46" weight="372" />
+      <edge source="Nature" target="Nature Biotechnology" id="47" weight="391" />
+      <edge source="Nature" target="New England Journal of Medicine" id="48" weight="230" />
+      <edge source="Nature" target="Nature Medicine" id="49" weight="382" />
+      <edge source="Nature" target="Genome Biology" id="50" weight="378" />
+      <edge source="Nature" target="Journal of Virology" id="51" weight="323" />
+      <edge source="Nature" target="Mol Syst Biol" id="52" weight="236" />
+      <edge source="Nature" target="Acta Ophthalmologica" id="53" weight="372" />
+      <edge source="Nature" target="Hum Genet" id="54" weight="204" />
+      <edge source="Nature" target="Geophysical Research Letters" id="55" weight="360" />
+      <edge source="Nature" target="Journal of Geophysical Research" id="56" weight="344" />
+      <edge source="Nature" target="Zoological Journal of the Linnean Society" id="57" weight="238" />
+      <edge source="Nature" target="Molecular Biology of the Cell" id="58" weight="261" />
+      <edge source="Nature" target="Physical Review B" id="59" weight="204" />
+      <edge source="Nature" target="Astrophysical Journal" id="60" weight="204" />
+      <edge source="Nature" target="Geology" id="61" weight="333" />
+      <edge source="Nature" target="Palaeontology" id="62" weight="254" />
+      <edge source="Nature" target="Icarus" id="63" weight="314" />
+      <edge source="Nature" target="Genome Biol" id="64" weight="330" />
+      <edge source="Nature" target="Acta Palaeontologica Polonica" id="65" weight="251" />
+      <edge source="Nature" target="BMC Evolutionary Biology" id="66" weight="326" />
+      <edge source="Nature" target="Journal of Bacteriology" id="67" weight="229" />
+      <edge source="Nature" target="Nat Cell Biol" id="68" weight="227" />
+      <edge source="Nature" target="Nature Neuroscience" id="69" weight="321" />
+      <edge source="Nature" target="BioEssays" id="70" weight="293" />
+      <edge source="Nature" target="Annals of the New York Academy of Sciences" id="71" weight="307" />
+      <edge source="Nature" target="Molecular Phylogenetics and Evolution" id="72" weight="225" />
+      <edge source="Nature" target="PeerJ" id="73" weight="233" />
+      <edge source="Nature" target="Virology" id="74" weight="206" />
+      <edge source="Nature" target="J Neurosci" id="75" weight="255" />
+      <edge source="Nature" target="Biology Letters" id="76" weight="310" />
+      <edge source="Nature" target="J Virol" id="77" weight="202" />
+      <edge source="Nature" target="Nature Reviews Genetics" id="78" weight="308" />
+      <edge source="Nature" target="Evolution" id="79" weight="297" />
+      <edge source="Nature" target="PLOS Biology" id="80" weight="304" />
+      <edge source="Nature" target="Human Genetics" id="81" weight="260" />
+      <edge source="Nature" target="Nature Cell Biology" id="82" weight="281" />
+      <edge source="Nature" target="Chemical Reviews" id="83" weight="204" />
+      <edge source="Nature" target="eLife" id="84" weight="293" />
+      <edge source="Nature" target="Earth and Planetary Science Letters" id="85" weight="289" />
+      <edge source="Nature" target="Journal of Paleontology" id="86" weight="243" />
+      <edge source="Nature" target="Nature Reviews Molecular Cell Biology" id="87" weight="283" />
+      <edge source="Nature" target="BMC Genomics" id="88" weight="244" />
+      <edge source="Nature" target="Immunity" id="89" weight="237" />
+      <edge source="Nature" target="Proceedings of the Royal Society B" id="90" weight="266" />
+      <edge source="Nature" target="Nature Reviews Neuroscience" id="91" weight="262" />
+      <edge source="Nature" target="Physical Review" id="92" weight="206" />
+      <edge source="Nature" target="Science Advances" id="93" weight="259" />
+      <edge source="Nature" target="Animal Behaviour" id="94" weight="257" />
+      <edge source="Nature" target="Biographical Memoirs of Fellows of the Royal Society" id="95" weight="257" />
+      <edge source="Nature" target="BioScience" id="96" weight="214" />
+      <edge source="Nature" target="EMBO Reports" id="97" weight="251" />
+      <edge source="Nature" target="Annual Review of Biochemistry" id="98" weight="242" />
+      <edge source="Nature" target="Nature Geoscience" id="99" weight="249" />
+      <edge source="Nature" target="Naturwissenschaften" id="100" weight="249" />
+      <edge source="Nature" target="RNA" id="101" weight="208" />
+      <edge source="Nature" target="The American Naturalist" id="102" weight="247" />
+      <edge source="Nature" target="PLoS Biology" id="103" weight="243" />
+      <edge source="Nature" target="New Scientist" id="104" weight="242" />
+      <edge source="Nature" target="Palaeogeography Palaeoclimatology Palaeoecology" id="105" weight="242" />
+      <edge source="Nature" target="The Journal of Experimental Medicine" id="106" weight="218" />
+      <edge source="Nature" target="Circulation" id="107" weight="210" />
+      <edge source="Nature" target="Journal of Theoretical Biology" id="108" weight="237" />
+      <edge source="Nature" target="Physics Today" id="109" weight="231" />
+      <edge source="Nature" target="Cellular and Molecular Life Sciences" id="110" weight="201" />
+      <edge source="Nature" target="Trends in Genetics" id="111" weight="231" />
+      <edge source="Nature" target="Neurology" id="112" weight="209" />
+      <edge source="Nature" target="Trends in Ecology  Evolution" id="113" weight="227" />
+      <edge source="Nature" target="Trends in Biochemical Sciences" id="114" weight="216" />
+      <edge source="Nature" target="Nature Structural  Molecular Biology" id="115" weight="223" />
+      <edge source="Nature" target="Journal of Human Evolution" id="116" weight="220" />
+      <edge source="Nature" target="Ecology" id="117" weight="204" />
+      <edge source="Nature" target="American Journal of Physical Anthropology" id="118" weight="211" />
+      <edge source="Nature" target="PLOS Genetics" id="119" weight="202" />
+      <edge source="Nature" target="Journal of Experimental Biology" id="120" weight="202" />
+      <edge source="Nature" target="Philosophical Transactions of the Royal Society B Biological Sciences" id="121" weight="201" />
+      <edge source="PNAS" target="FEBS Letters" id="122" weight="686" />
+      <edge source="PNAS" target="Biochimica et Biophysica Acta" id="123" weight="599" />
+      <edge source="PNAS" target="Nature Genetics" id="124" weight="734" />
+      <edge source="PNAS" target="Physical Review Letters" id="125" weight="248" />
+      <edge source="PNAS" target="Lancet" id="126" weight="473" />
+      <edge source="PNAS" target="Journal of Molecular Biology" id="127" weight="607" />
+      <edge source="PNAS" target="Hum Mol Genet" id="128" weight="581" />
+      <edge source="PNAS" target="J Mol Biol" id="129" weight="564" />
+      <edge source="PNAS" target="The Journal of Cell Biology" id="130" weight="484" />
+      <edge source="PNAS" target="Am J Hum Genet" id="131" weight="549" />
+      <edge source="PNAS" target="Cancer Res" id="132" weight="538" />
+      <edge source="PNAS" target="Nat Biotechnol" id="133" weight="527" />
+      <edge source="PNAS" target="JAMA" id="134" weight="205" />
+      <edge source="PNAS" target="Molecular Cell" id="135" weight="498" />
+      <edge source="PNAS" target="Curr Biol" id="136" weight="512" />
+      <edge source="PNAS" target="Cancer Research" id="137" weight="483" />
+      <edge source="PNAS" target="Journal of the American Chemical Society" id="138" weight="379" />
+      <edge source="PNAS" target="Human Molecular Genetics" id="139" weight="475" />
+      <edge source="PNAS" target="Genes  Development" id="140" weight="496" />
+      <edge source="PNAS" target="Genes Dev" id="141" weight="494" />
+      <edge source="PNAS" target="The New England Journal of Medicine" id="142" weight="358" />
+      <edge source="PNAS" target="Mol Cell" id="143" weight="487" />
+      <edge source="PNAS" target="Eur J Biochem" id="144" weight="426" />
+      <edge source="PNAS" target="Scientific American" id="145" weight="307" />
+      <edge source="PNAS" target="Proc Natl Acad Sci U S A" id="146" weight="473" />
+      <edge source="PNAS" target="J Cell Sci" id="147" weight="460" />
+      <edge source="PNAS" target="Proceedings of the Royal Society B Biological Sciences" id="148" weight="370" />
+      <edge source="PNAS" target="Molecular Biology and Evolution" id="149" weight="456" />
+      <edge source="PNAS" target="Mol Biol Cell" id="150" weight="451" />
+      <edge source="PNAS" target="Genetics" id="151" weight="448" />
+      <edge source="PNAS" target="J Immunol" id="152" weight="444" />
+      <edge source="PNAS" target="Journal of Immunology" id="153" weight="403" />
+      <edge source="PNAS" target="Journal of Cell Science" id="154" weight="344" />
+      <edge source="PNAS" target="The Journal of Neuroscience" id="155" weight="420" />
+      <edge source="PNAS" target="The Journal of Clinical Investigation" id="156" weight="373" />
+      <edge source="PNAS" target="Cytogenet Cell Genet" id="157" weight="405" />
+      <edge source="PNAS" target="Structure" id="158" weight="393" />
+      <edge source="PNAS" target="Development" id="159" weight="391" />
+      <edge source="PNAS" target="Nature Biotechnology" id="160" weight="364" />
+      <edge source="PNAS" target="Nature Medicine" id="161" weight="325" />
+      <edge source="PNAS" target="Genome Biology" id="162" weight="310" />
+      <edge source="PNAS" target="Journal of Virology" id="163" weight="376" />
+      <edge source="PNAS" target="Mol Syst Biol" id="164" weight="375" />
+      <edge source="PNAS" target="Hum Genet" id="165" weight="365" />
+      <edge source="PNAS" target="Molecular Biology of the Cell" id="166" weight="270" />
+      <edge source="PNAS" target="Genome Biol" id="167" weight="249" />
+      <edge source="PNAS" target="BMC Evolutionary Biology" id="168" weight="319" />
+      <edge source="PNAS" target="Journal of Bacteriology" id="169" weight="323" />
+      <edge source="PNAS" target="Nat Cell Biol" id="170" weight="321" />
+      <edge source="PNAS" target="Nature Neuroscience" id="171" weight="288" />
+      <edge source="PNAS" target="BioEssays" id="172" weight="321" />
+      <edge source="PNAS" target="Annals of the New York Academy of Sciences" id="173" weight="319" />
+      <edge source="PNAS" target="Molecular Phylogenetics and Evolution" id="174" weight="264" />
+      <edge source="PNAS" target="Virology" id="175" weight="315" />
+      <edge source="PNAS" target="J Neurosci" id="176" weight="313" />
+      <edge source="PNAS" target="EMBO Rep" id="177" weight="311" />
+      <edge source="PNAS" target="Biology Letters" id="178" weight="266" />
+      <edge source="PNAS" target="J Virol" id="179" weight="310" />
+      <edge source="PNAS" target="Nature Reviews Genetics" id="180" weight="271" />
+      <edge source="PNAS" target="Evolution" id="181" weight="286" />
+      <edge source="PNAS" target="PLOS Biology" id="182" weight="267" />
+      <edge source="PNAS" target="J Clin Invest" id="183" weight="291" />
+      <edge source="PNAS" target="Human Genetics" id="184" weight="299" />
+      <edge source="PNAS" target="Nature Cell Biology" id="185" weight="284" />
+      <edge source="PNAS" target="Endocrinology" id="186" weight="292" />
+      <edge source="PNAS" target="eLife" id="187" weight="273" />
+      <edge source="PNAS" target="Nature Reviews Molecular Cell Biology" id="188" weight="230" />
+      <edge source="PNAS" target="Exp Cell Res" id="189" weight="279" />
+      <edge source="PNAS" target="BMC Genomics" id="190" weight="277" />
+      <edge source="PNAS" target="Immunity" id="191" weight="272" />
+      <edge source="PNAS" target="Nature Reviews Neuroscience" id="192" weight="225" />
+      <edge source="PNAS" target="Science Advances" id="193" weight="211" />
+      <edge source="PNAS" target="FASEB Journal" id="194" weight="203" />
+      <edge source="PNAS" target="EMBO Reports" id="195" weight="247" />
+      <edge source="PNAS" target="Annual Review of Biochemistry" id="196" weight="239" />
+      <edge source="PNAS" target="RNA" id="197" weight="249" />
+      <edge source="PNAS" target="The American Naturalist" id="198" weight="212" />
+      <edge source="PNAS" target="PLoS Biology" id="199" weight="224" />
+      <edge source="PNAS" target="The Journal of Experimental Medicine" id="200" weight="235" />
+      <edge source="PNAS" target="Mol Cell Proteomics" id="201" weight="235" />
+      <edge source="PNAS" target="Cellular and Molecular Life Sciences" id="202" weight="231" />
+      <edge source="PNAS" target="Trends in Genetics" id="203" weight="215" />
+      <edge source="PNAS" target="Neurology" id="204" weight="231" />
+      <edge source="PNAS" target="Anal Biochem" id="205" weight="230" />
+      <edge source="PNAS" target="J Exp Med" id="206" weight="229" />
+      <edge source="PNAS" target="Int J Cancer" id="207" weight="229" />
+      <edge source="PNAS" target="Trends in Ecology  Evolution" id="208" weight="215" />
+      <edge source="PNAS" target="Trends in Biochemical Sciences" id="209" weight="226" />
+      <edge source="PNAS" target="Nature Structural  Molecular Biology" id="210" weight="208" />
+      <edge source="PNAS" target="Neuroscience" id="211" weight="221" />
+      <edge source="PNAS" target="Applied and Environmental Microbiology" id="212" weight="216" />
+      <edge source="PNAS" target="Cell Cycle" id="213" weight="214" />
+      <edge source="PNAS" target="FASEB J" id="214" weight="209" />
+      <edge source="PNAS" target="Human Mutation" id="215" weight="200" />
+      <edge source="PNAS" target="Molecular Ecology" id="216" weight="205" />
+      <edge source="PNAS" target="PLOS Genetics" id="217" weight="208" />
+      <edge source="PNAS" target="Bioinformatics" id="218" weight="205" />
+      <edge source="PNAS" target="Nature Reviews Microbiology" id="219" weight="204" />
+      <edge source="PNAS" target="Mamm Genome" id="220" weight="201" />
+      <edge source="Science" target="Oncogene" id="221" weight="501" />
+      <edge source="Science" target="Mol Cell Biol" id="222" weight="393" />
+      <edge source="Science" target="EMBO J" id="223" weight="396" />
+      <edge source="Science" target="The Astrophysical Journal" id="224" weight="380" />
+      <edge source="Science" target="Monthly Notices of the Royal Astronomical Society" id="225" weight="227" />
+      <edge source="Science" target="FEBS Lett" id="226" weight="242" />
+      <edge source="Science" target="Nucleic Acids Res" id="227" weight="346" />
+      <edge source="Science" target="FEBS Letters" id="228" weight="380" />
+      <edge source="Science" target="Nucleic Acids Research" id="229" weight="520" />
+      <edge source="Science" target="Molecular and Cellular Biology" id="230" weight="432" />
+      <edge source="Science" target="The EMBO Journal" id="231" weight="501" />
+      <edge source="Science" target="Biochimica et Biophysica Acta" id="232" weight="363" />
+      <edge source="Science" target="Blood" id="233" weight="370" />
+      <edge source="Science" target="Biochim Biophys Acta" id="234" weight="213" />
+      <edge source="Science" target="Genome Research" id="235" weight="489" />
+      <edge source="Science" target="Nature Genetics" id="236" weight="552" />
+      <edge source="Science" target="Physical Review Letters" id="237" weight="543" />
+      <edge source="Science" target="BMJ" id="238" weight="249" />
+      <edge source="Science" target="Lancet" id="239" weight="566" />
+      <edge source="Science" target="J Cell Biol" id="240" weight="237" />
+      <edge source="Science" target="Neuron" id="241" weight="504" />
+      <edge source="Science" target="Journal of Molecular Biology" id="242" weight="408" />
+      <edge source="Science" target="J Mol Biol" id="243" weight="218" />
+      <edge source="Science" target="The Journal of Cell Biology" id="244" weight="300" />
+      <edge source="Science" target="JAMA" id="245" weight="266" />
+      <edge source="Science" target="Molecular Cell" id="246" weight="368" />
+      <edge source="Science" target="Curr Biol" id="247" weight="229" />
+      <edge source="Science" target="American Journal of Human Genetics" id="248" weight="340" />
+      <edge source="Science" target="Journal of Vertebrate Paleontology" id="249" weight="304" />
+      <edge source="Science" target="Cancer Research" id="250" weight="305" />
+      <edge source="Science" target="Journal of the American Chemical Society" id="251" weight="498" />
+      <edge source="Science" target="Human Molecular Genetics" id="252" weight="268" />
+      <edge source="Science" target="Genes  Development" id="253" weight="372" />
+      <edge source="Science" target="Genes Dev" id="254" weight="252" />
+      <edge source="Science" target="The New England Journal of Medicine" id="255" weight="351" />
+      <edge source="Science" target="Mol Cell" id="256" weight="230" />
+      <edge source="Science" target="Scientific American" id="257" weight="446" />
+      <edge source="Science" target="Proc Natl Acad Sci U S A" id="258" weight="249" />
+      <edge source="Science" target="Proceedings of the Royal Society B Biological Sciences" id="259" weight="398" />
+      <edge source="Science" target="Molecular Biology and Evolution" id="260" weight="403" />
+      <edge source="Science" target="Genetics" id="261" weight="413" />
+      <edge source="Science" target="Journal of Immunology" id="262" weight="229" />
+      <edge source="Science" target="Journal of Cell Science" id="263" weight="230" />
+      <edge source="Science" target="The Journal of Neuroscience" id="264" weight="326" />
+      <edge source="Science" target="The Journal of Clinical Investigation" id="265" weight="237" />
+      <edge source="Science" target="Development" id="266" weight="273" />
+      <edge source="Science" target="Nature Biotechnology" id="267" weight="307" />
+      <edge source="Science" target="New England Journal of Medicine" id="268" weight="236" />
+      <edge source="Science" target="Nature Medicine" id="269" weight="308" />
+      <edge source="Science" target="Genome Biology" id="270" weight="242" />
+      <edge source="Science" target="Journal of Virology" id="271" weight="270" />
+      <edge source="Science" target="Geophysical Research Letters" id="272" weight="362" />
+      <edge source="Science" target="Journal of Geophysical Research" id="273" weight="360" />
+      <edge source="Science" target="Angewandte Chemie International Edition" id="274" weight="230" />
+      <edge source="Science" target="Geology" id="275" weight="330" />
+      <edge source="Science" target="Palaeontology" id="276" weight="202" />
+      <edge source="Science" target="Icarus" id="277" weight="332" />
+      <edge source="Science" target="BMC Evolutionary Biology" id="278" weight="292" />
+      <edge source="Science" target="Journal of Bacteriology" id="279" weight="207" />
+      <edge source="Science" target="Nature Neuroscience" id="280" weight="275" />
+      <edge source="Science" target="BioEssays" id="281" weight="283" />
+      <edge source="Science" target="Annals of the New York Academy of Sciences" id="282" weight="287" />
+      <edge source="Science" target="Molecular Phylogenetics and Evolution" id="283" weight="228" />
+      <edge source="Science" target="PeerJ" id="284" weight="204" />
+      <edge source="Science" target="J Neurosci" id="285" weight="203" />
+      <edge source="Science" target="Biology Letters" id="286" weight="290" />
+      <edge source="Science" target="Nature Reviews Genetics" id="287" weight="283" />
+      <edge source="Science" target="Evolution" id="288" weight="304" />
+      <edge source="Science" target="PLOS Biology" id="289" weight="274" />
+      <edge source="Science" target="Nature Cell Biology" id="290" weight="218" />
+      <edge source="Science" target="Chemical Reviews" id="291" weight="209" />
+      <edge source="Science" target="eLife" id="292" weight="268" />
+      <edge source="Science" target="Earth and Planetary Science Letters" id="293" weight="258" />
+      <edge source="Science" target="Nature Reviews Molecular Cell Biology" id="294" weight="245" />
+      <edge source="Science" target="Proceedings of the Royal Society B" id="295" weight="222" />
+      <edge source="Science" target="Nature Reviews Neuroscience" id="296" weight="238" />
+      <edge source="Science" target="Science Advances" id="297" weight="258" />
+      <edge source="Science" target="Animal Behaviour" id="298" weight="241" />
+      <edge source="Science" target="BioScience" id="299" weight="252" />
+      <edge source="Science" target="EMBO Reports" id="300" weight="207" />
+      <edge source="Science" target="Annual Review of Biochemistry" id="301" weight="210" />
+      <edge source="Science" target="Nature Geoscience" id="302" weight="249" />
+      <edge source="Science" target="The American Naturalist" id="303" weight="249" />
+      <edge source="Science" target="PLoS Biology" id="304" weight="234" />
+      <edge source="Science" target="New Scientist" id="305" weight="205" />
+      <edge source="Science" target="Palaeogeography Palaeoclimatology Palaeoecology" id="306" weight="222" />
+      <edge source="Science" target="Trends in Genetics" id="307" weight="202" />
+      <edge source="Science" target="Trends in Ecology  Evolution" id="308" weight="227" />
+      <edge source="Science" target="Ecology" id="309" weight="219" />
+      <edge source="Science" target="Molecular Ecology" id="310" weight="208" />
+      <edge source="Journal of Biological Chemistry" target="Nature Communications" id="311" weight="309" />
+      <edge source="Journal of Biological Chemistry" target="Current Biology" id="312" weight="387" />
+      <edge source="Journal of Biological Chemistry" target="Nucleic Acids Res" id="313" weight="689" />
+      <edge source="Journal of Biological Chemistry" target="Nucleic Acids Research" id="314" weight="710" />
+      <edge source="Journal of Biological Chemistry" target="Scientific Reports" id="315" weight="257" />
+      <edge source="Journal of Biological Chemistry" target="DNA Res" id="316" weight="486" />
+      <edge source="Journal of Biological Chemistry" target="Genome Research" id="317" weight="683" />
+      <edge source="Journal of Biological Chemistry" target="Nature Genetics" id="318" weight="605" />
+      <edge source="Journal of Biological Chemistry" target="Lancet" id="319" weight="240" />
+      <edge source="Journal of Biological Chemistry" target="J Cell Biol" id="320" weight="622" />
+      <edge source="Journal of Biological Chemistry" target="Neuron" id="321" weight="452" />
+      <edge source="Journal of Biological Chemistry" target="Journal of Molecular Biology" id="322" weight="601" />
+      <edge source="Journal of Biological Chemistry" target="Hum Mol Genet" id="323" weight="483" />
+      <edge source="Journal of Biological Chemistry" target="J Mol Biol" id="324" weight="488" />
+      <edge source="Journal of Biological Chemistry" target="The Journal of Cell Biology" id="325" weight="552" />
+      <edge source="Journal of Biological Chemistry" target="Am J Hum Genet" id="326" weight="398" />
+      <edge source="Journal of Biological Chemistry" target="Cancer Res" id="327" weight="529" />
+      <edge source="Journal of Biological Chemistry" target="Nat Biotechnol" id="328" weight="334" />
+      <edge source="Journal of Biological Chemistry" target="Molecular Cell" id="329" weight="519" />
+      <edge source="Journal of Biological Chemistry" target="Curr Biol" id="330" weight="369" />
+      <edge source="Journal of Biological Chemistry" target="American Journal of Human Genetics" id="331" weight="431" />
+      <edge source="Journal of Biological Chemistry" target="Cancer Research" id="332" weight="505" />
+      <edge source="Journal of Biological Chemistry" target="Journal of the American Chemical Society" id="333" weight="230" />
+      <edge source="Journal of Biological Chemistry" target="Human Molecular Genetics" id="334" weight="497" />
+      <edge source="Journal of Biological Chemistry" target="Genes  Development" id="335" weight="460" />
+      <edge source="Journal of Biological Chemistry" target="Genes Dev" id="336" weight="423" />
+      <edge source="Journal of Biological Chemistry" target="The New England Journal of Medicine" id="337" weight="224" />
+      <edge source="Journal of Biological Chemistry" target="Mol Cell" id="338" weight="479" />
+      <edge source="Journal of Biological Chemistry" target="Eur J Biochem" id="339" weight="479" />
+      <edge source="Journal of Biological Chemistry" target="Proc Natl Acad Sci U S A" id="340" weight="337" />
+      <edge source="Journal of Biological Chemistry" target="J Cell Sci" id="341" weight="439" />
+      <edge source="Journal of Biological Chemistry" target="Mol Biol Cell" id="342" weight="383" />
+      <edge source="Journal of Biological Chemistry" target="J Immunol" id="343" weight="431" />
+      <edge source="Journal of Biological Chemistry" target="Journal of Immunology" id="344" weight="435" />
+      <edge source="Journal of Biological Chemistry" target="Journal of Cell Science" id="345" weight="420" />
+      <edge source="Journal of Biological Chemistry" target="The Journal of Neuroscience" id="346" weight="289" />
+      <edge source="Journal of Biological Chemistry" target="The Journal of Clinical Investigation" id="347" weight="410" />
+      <edge source="Journal of Biological Chemistry" target="Cytogenet Cell Genet" id="348" weight="380" />
+      <edge source="Journal of Biological Chemistry" target="Structure" id="349" weight="395" />
+      <edge source="Journal of Biological Chemistry" target="Development" id="350" weight="293" />
+      <edge source="Journal of Biological Chemistry" target="Nature Biotechnology" id="351" weight="249" />
+      <edge source="Journal of Biological Chemistry" target="Nature Medicine" id="352" weight="246" />
+      <edge source="Journal of Biological Chemistry" target="Genome Biology" id="353" weight="207" />
+      <edge source="Journal of Biological Chemistry" target="Journal of Virology" id="354" weight="283" />
+      <edge source="Journal of Biological Chemistry" target="Mol Syst Biol" id="355" weight="276" />
+      <edge source="Journal of Biological Chemistry" target="Hum Genet" id="356" weight="265" />
+      <edge source="Journal of Biological Chemistry" target="Molecular Biology of the Cell" id="357" weight="345" />
+      <edge source="Journal of Biological Chemistry" target="Journal of Bacteriology" id="358" weight="278" />
+      <edge source="Journal of Biological Chemistry" target="Nat Cell Biol" id="359" weight="294" />
+      <edge source="Journal of Biological Chemistry" target="Virology" id="360" weight="227" />
+      <edge source="Journal of Biological Chemistry" target="J Neurosci" id="361" weight="276" />
+      <edge source="Journal of Biological Chemistry" target="J Virol" id="362" weight="290" />
+      <edge source="Journal of Biological Chemistry" target="J Clin Invest" id="363" weight="301" />
+      <edge source="Journal of Biological Chemistry" target="Human Genetics" id="364" weight="268" />
+      <edge source="Journal of Biological Chemistry" target="Archives of Biochemistry and Biophysics" id="365" weight="299" />
+      <edge source="Journal of Biological Chemistry" target="Nature Cell Biology" id="366" weight="298" />
+      <edge source="Journal of Biological Chemistry" target="Endocrinology" id="367" weight="297" />
+      <edge source="Journal of Biological Chemistry" target="Exp Cell Res" id="368" weight="254" />
+      <edge source="Journal of Biological Chemistry" target="Arch Biochem Biophys" id="369" weight="276" />
+      <edge source="Journal of Biological Chemistry" target="Immunity" id="370" weight="252" />
+      <edge source="Journal of Biological Chemistry" target="European Journal of Biochemistry" id="371" weight="261" />
+      <edge source="Journal of Biological Chemistry" target="FASEB Journal" id="372" weight="259" />
+      <edge source="Journal of Biological Chemistry" target="EMBO Reports" id="373" weight="202" />
+      <edge source="Journal of Biological Chemistry" target="Annual Review of Biochemistry" id="374" weight="250" />
+      <edge source="Journal of Biological Chemistry" target="The Journal of Experimental Medicine" id="375" weight="242" />
+      <edge source="Journal of Biological Chemistry" target="Circulation" id="376" weight="240" />
+      <edge source="Journal of Biological Chemistry" target="Experimental Cell Research" id="377" weight="237" />
+      <edge source="Journal of Biological Chemistry" target="Cellular and Molecular Life Sciences" id="378" weight="218" />
+      <edge source="Journal of Biological Chemistry" target="Circulation Research" id="379" weight="231" />
+      <edge source="Journal of Biological Chemistry" target="DNA Research" id="380" weight="229" />
+      <edge source="Journal of Biological Chemistry" target="Cytogenetics and Cell Genetics" id="381" weight="226" />
+      <edge source="Journal of Biological Chemistry" target="Trends in Biochemical Sciences" id="382" weight="218" />
+      <edge source="Journal of Biological Chemistry" target="Cell Cycle" id="383" weight="212" />
+      <edge source="Journal of Biological Chemistry" target="FASEB J" id="384" weight="213" />
+      <edge source="Journal of Biological Chemistry" target="Human Mutation" id="385" weight="211" />
+      <edge source="Journal of Biological Chemistry" target="Diabetes" id="386" weight="210" />
+      <edge source="Journal of Biological Chemistry" target="Journal of Neurochemistry" id="387" weight="202" />
+      <edge source="Journal of Biological Chemistry" target="International Journal of Cancer" id="388" weight="202" />
+      <edge source="Genome Res" target="Biochemistry" id="389" weight="299" />
+      <edge source="Genome Res" target="The Biochemical Journal" id="390" weight="405" />
+      <edge source="Genome Res" target="Oncogene" id="391" weight="458" />
+      <edge source="Genome Res" target="Blood" id="392" weight="206" />
+      <edge source="Genome Res" target="Biochim Biophys Acta" id="393" weight="396" />
+      <edge source="Genome Res" target="J Cell Biol" id="394" weight="380" />
+      <edge source="Genome Res" target="Hum Mol Genet" id="395" weight="384" />
+      <edge source="Genome Res" target="J Mol Biol" id="396" weight="265" />
+      <edge source="Genome Res" target="Am J Hum Genet" id="397" weight="304" />
+      <edge source="Genome Res" target="Cancer Res" id="398" weight="288" />
+      <edge source="Genome Res" target="Nat Biotechnol" id="399" weight="429" />
+      <edge source="Genome Res" target="Curr Biol" id="400" weight="290" />
+      <edge source="Genome Res" target="Genes Dev" id="401" weight="248" />
+      <edge source="Genome Res" target="Mol Cell" id="402" weight="260" />
+      <edge source="Genome Res" target="Eur J Biochem" id="403" weight="231" />
+      <edge source="Genome Res" target="Proc Natl Acad Sci U S A" id="404" weight="269" />
+      <edge source="Genome Res" target="J Cell Sci" id="405" weight="279" />
+      <edge source="Genome Res" target="Mol Biol Cell" id="406" weight="323" />
+      <edge source="Genome Res" target="J Immunol" id="407" weight="204" />
+      <edge source="Genome Res" target="Cytogenet Cell Genet" id="408" weight="250" />
+      <edge source="Genome Res" target="Mol Syst Biol" id="409" weight="320" />
+      <edge source="Genome Res" target="Nat Cell Biol" id="410" weight="215" />
+      <edge source="Genome Res" target="EMBO Rep" id="411" weight="288" />
+      <edge source="Genome Res" target="Anal Biochem" id="412" weight="226" />
+      <edge source="Cell" target="Nature Communications" id="413" weight="318" />
+      <edge source="Cell" target="Current Biology" id="414" weight="421" />
+      <edge source="Cell" target="FEBS Lett" id="415" weight="306" />
+      <edge source="Cell" target="Nucleic Acids Res" id="416" weight="374" />
+      <edge source="Cell" target="FEBS Letters" id="417" weight="389" />
+      <edge source="Cell" target="Nucleic Acids Research" id="418" weight="562" />
+      <edge source="Cell" target="Biochimica et Biophysica Acta" id="419" weight="335" />
+      <edge source="Cell" target="Blood" id="420" weight="397" />
+      <edge source="Cell" target="Scientific Reports" id="421" weight="228" />
+      <edge source="Cell" target="Biochim Biophys Acta" id="422" weight="207" />
+      <edge source="Cell" target="DNA Res" id="423" weight="310" />
+      <edge source="Cell" target="Genome Research" id="424" weight="493" />
+      <edge source="Cell" target="Nature Genetics" id="425" weight="466" />
+      <edge source="Cell" target="J Cell Biol" id="426" weight="342" />
+      <edge source="Cell" target="Neuron" id="427" weight="401" />
+      <edge source="Cell" target="Journal of Molecular Biology" id="428" weight="322" />
+      <edge source="Cell" target="Hum Mol Genet" id="429" weight="213" />
+      <edge source="Cell" target="J Mol Biol" id="430" weight="257" />
+      <edge source="Cell" target="The Journal of Cell Biology" id="431" weight="400" />
+      <edge source="Cell" target="Cancer Res" id="432" weight="243" />
+      <edge source="Cell" target="Nat Biotechnol" id="433" weight="268" />
+      <edge source="Cell" target="Molecular Cell" id="434" weight="491" />
+      <edge source="Cell" target="Curr Biol" id="435" weight="275" />
+      <edge source="Cell" target="American Journal of Human Genetics" id="436" weight="250" />
+      <edge source="Cell" target="Cancer Research" id="437" weight="302" />
+      <edge source="Cell" target="Human Molecular Genetics" id="438" weight="306" />
+      <edge source="Cell" target="Genes  Development" id="439" weight="470" />
+      <edge source="Cell" target="Genes Dev" id="440" weight="353" />
+      <edge source="Cell" target="Mol Cell" id="441" weight="354" />
+      <edge source="Cell" target="Proc Natl Acad Sci U S A" id="442" weight="214" />
+      <edge source="Cell" target="J Cell Sci" id="443" weight="208" />
+      <edge source="Cell" target="Mol Biol Cell" id="444" weight="225" />
+      <edge source="Cell" target="Genetics" id="445" weight="249" />
+      <edge source="Cell" target="Journal of Immunology" id="446" weight="209" />
+      <edge source="Cell" target="Journal of Cell Science" id="447" weight="269" />
+      <edge source="Cell" target="The Journal of Neuroscience" id="448" weight="205" />
+      <edge source="Cell" target="The Journal of Clinical Investigation" id="449" weight="214" />
+      <edge source="Cell" target="Development" id="450" weight="305" />
+      <edge source="Cell" target="Nature Biotechnology" id="451" weight="235" />
+      <edge source="Cell" target="Nature Medicine" id="452" weight="236" />
+      <edge source="Cell" target="Genome Biology" id="453" weight="283" />
+      <edge source="Cell" target="Journal of Virology" id="454" weight="221" />
+      <edge source="Cell" target="Acta Ophthalmologica" id="455" weight="366" />
+      <edge source="Cell" target="Molecular Biology of the Cell" id="456" weight="239" />
+      <edge source="Cell" target="Genome Biol" id="457" weight="205" />
+      <edge source="Cell" target="Nature Cell Biology" id="458" weight="272" />
+      <edge source="Cell" target="Nature Reviews Molecular Cell Biology" id="459" weight="257" />
+      <edge source="LPSN" target="wwwdsmzde" id="460" weight="1395" />
+      <edge source="LPSN" target="wwwstraininfonet" id="461" weight="861" />
+      <edge source="wwwuniprotorg" target="wwwdsmzde" id="462" weight="1369" />
+      <edge source="wwwuniprotorg" target="wwwstraininfonet" id="463" weight="827" />
+      <edge source="Biochemical and Biophysical Research Communications" target="PLoS ONE" id="464" weight="436" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Mol Cell Biol" id="465" weight="388" />
+      <edge source="Biochemical and Biophysical Research Communications" target="EMBO J" id="466" weight="349" />
+      <edge source="Biochemical and Biophysical Research Communications" target="FEBS Lett" id="467" weight="434" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Nucleic Acids Res" id="468" weight="242" />
+      <edge source="Biochemical and Biophysical Research Communications" target="FEBS Letters" id="469" weight="414" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Nucleic Acids Research" id="470" weight="236" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Molecular and Cellular Biology" id="471" weight="337" />
+      <edge source="Biochemical and Biophysical Research Communications" target="The EMBO Journal" id="472" weight="346" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Biochimica et Biophysica Acta" id="473" weight="355" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Blood" id="474" weight="382" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Biochim Biophys Acta" id="475" weight="308" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Genome Research" id="476" weight="273" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Nature Genetics" id="477" weight="255" />
+      <edge source="Biochemical and Biophysical Research Communications" target="J Cell Biol" id="478" weight="242" />
+      <edge source="Biochemical and Biophysical Research Communications" target="The Journal of Cell Biology" id="479" weight="209" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Cancer Res" id="480" weight="248" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Cancer Research" id="481" weight="221" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Human Molecular Genetics" id="482" weight="213" />
+      <edge source="Biochemical and Biophysical Research Communications" target="Journal of Immunology" id="483" weight="206" />
+      <edge source="Genomics" target="PLoS ONE" id="484" weight="252" />
+      <edge source="Genomics" target="Biochemistry" id="485" weight="449" />
+      <edge source="Genomics" target="EMBO J" id="486" weight="420" />
+      <edge source="Genomics" target="FEBS Lett" id="487" weight="413" />
+      <edge source="Genomics" target="Nucleic Acids Res" id="488" weight="315" />
+      <edge source="Genomics" target="FEBS Letters" id="489" weight="304" />
+      <edge source="Genomics" target="Nucleic Acids Research" id="490" weight="252" />
+      <edge source="Genomics" target="Molecular and Cellular Biology" id="491" weight="312" />
+      <edge source="Genomics" target="The EMBO Journal" id="492" weight="292" />
+      <edge source="Genomics" target="Biochimica et Biophysica Acta" id="493" weight="222" />
+      <edge source="Genomics" target="Blood" id="494" weight="296" />
+      <edge source="Genomics" target="Biochim Biophys Acta" id="495" weight="289" />
+      <edge source="Genomics" target="DNA Res" id="496" weight="204" />
+      <edge source="Genomics" target="Genome Research" id="497" weight="344" />
+      <edge source="Genomics" target="Nature Genetics" id="498" weight="279" />
+      <edge source="Genomics" target="J Cell Biol" id="499" weight="222" />
+      <edge source="Genomics" target="Hum Mol Genet" id="500" weight="285" />
+      <edge source="Genomics" target="Am J Hum Genet" id="501" weight="233" />
+      <edge source="Genomics" target="Cancer Res" id="502" weight="219" />
+      <edge source="Genomics" target="American Journal of Human Genetics" id="503" weight="205" />
+      <edge source="Genomics" target="Human Molecular Genetics" id="504" weight="245" />
+      <edge source="Genomics" target="Genes Dev" id="505" weight="203" />
+      <edge source="Genomics" target="Eur J Biochem" id="506" weight="201" />
+      <edge source="Nat Genet" target="The Biochemical Journal" id="507" weight="272" />
+      <edge source="Nat Genet" target="Oncogene" id="508" weight="322" />
+      <edge source="Nat Genet" target="Mol Cell Biol" id="509" weight="419" />
+      <edge source="Nat Genet" target="EMBO J" id="510" weight="345" />
+      <edge source="Nat Genet" target="FEBS Lett" id="511" weight="340" />
+      <edge source="Nat Genet" target="Nucleic Acids Res" id="512" weight="408" />
+      <edge source="Nat Genet" target="Biochim Biophys Acta" id="513" weight="232" />
+      <edge source="Nat Genet" target="DNA Res" id="514" weight="495" />
+      <edge source="Nat Genet" target="J Cell Biol" id="515" weight="246" />
+      <edge source="Nat Genet" target="Hum Mol Genet" id="516" weight="372" />
+      <edge source="Nat Genet" target="Am J Hum Genet" id="517" weight="348" />
+      <edge source="Nat Genet" target="Nat Biotechnol" id="518" weight="260" />
+      <edge source="Nat Genet" target="Proc Natl Acad Sci U S A" id="519" weight="201" />
+      <edge source="Nat Genet" target="Mol Biol Cell" id="520" weight="210" />
+      <edge source="International Journal of Systematic and Evolutionary Microbiology" target="wwwdsmzde" id="521" weight="1065" />
+      <edge source="International Journal of Systematic and Evolutionary Microbiology" target="wwwstraininfonet" id="522" weight="635" />
+      <edge source="PLoS ONE" target="Gene" id="523" weight="270" />
+      <edge source="PLoS ONE" target="Biochemistry" id="524" weight="269" />
+      <edge source="PLoS ONE" target="The Biochemical Journal" id="525" weight="204" />
+      <edge source="PLoS ONE" target="Oncogene" id="526" weight="242" />
+      <edge source="PLoS ONE" target="Nature Communications" id="527" weight="516" />
+      <edge source="PLoS ONE" target="Current Biology" id="528" weight="620" />
+      <edge source="PLoS ONE" target="FEBS Letters" id="529" weight="235" />
+      <edge source="PLoS ONE" target="Nucleic Acids Research" id="530" weight="331" />
+      <edge source="PLoS ONE" target="The EMBO Journal" id="531" weight="230" />
+      <edge source="PLoS ONE" target="Biochimica et Biophysica Acta" id="532" weight="227" />
+      <edge source="PLoS ONE" target="Blood" id="533" weight="221" />
+      <edge source="PLoS ONE" target="Genome Research" id="534" weight="299" />
+      <edge source="PLoS ONE" target="Nature Genetics" id="535" weight="330" />
+      <edge source="PLoS ONE" target="BMJ" id="536" weight="275" />
+      <edge source="PLoS ONE" target="Lancet" id="537" weight="474" />
+      <edge source="PLoS ONE" target="Neuron" id="538" weight="215" />
+      <edge source="PLoS ONE" target="Journal of Molecular Biology" id="539" weight="220" />
+      <edge source="PLoS ONE" target="JAMA" id="540" weight="248" />
+      <edge source="PLoS ONE" target="American Journal of Human Genetics" id="541" weight="282" />
+      <edge source="PLoS ONE" target="Cancer Research" id="542" weight="224" />
+      <edge source="PLoS ONE" target="The Cochrane Database of Systematic Reviews" id="543" weight="243" />
+      <edge source="PLoS ONE" target="The New England Journal of Medicine" id="544" weight="271" />
+      <edge source="PLoS ONE" target="Proceedings of the Royal Society B Biological Sciences" id="545" weight="375" />
+      <edge source="PLoS ONE" target="Molecular Biology and Evolution" id="546" weight="318" />
+      <edge source="PLoS ONE" target="The Journal of Neuroscience" id="547" weight="218" />
+      <edge source="PLoS ONE" target="Zoological Journal of the Linnean Society" id="548" weight="286" />
+      <edge source="PLoS ONE" target="Palaeontology" id="549" weight="240" />
+      <edge source="PLoS ONE" target="Acta Palaeontologica Polonica" id="550" weight="291" />
+      <edge source="PLoS ONE" target="BMC Evolutionary Biology" id="551" weight="325" />
+      <edge source="PLoS ONE" target="Molecular Phylogenetics and Evolution" id="552" weight="319" />
+      <edge source="PLoS ONE" target="PeerJ" id="553" weight="316" />
+      <edge source="PLoS ONE" target="Biology Letters" id="554" weight="287" />
+      <edge source="PLoS ONE" target="Journal of Paleontology" id="555" weight="225" />
+      <edge source="PLoS ONE" target="Journal of Systematic Palaeontology" id="556" weight="217" />
+      <edge source="PLoS ONE" target="Zootaxa" id="557" weight="266" />
+      <edge source="PLoS ONE" target="Animal Behaviour" id="558" weight="217" />
+      <edge source="PLoS ONE" target="Cretaceous Research" id="559" weight="254" />
+      <edge source="PLoS ONE" target="Naturwissenschaften" id="560" weight="207" />
+      <edge source="PLoS ONE" target="Palaeogeography Palaeoclimatology Palaeoecology" id="561" weight="218" />
+      <edge source="PLoS ONE" target="American Journal of Physical Anthropology" id="562" weight="200" />
+      <edge source="Gene" target="Biochemistry" id="563" weight="331" />
+      <edge source="Gene" target="The Biochemical Journal" id="564" weight="400" />
+      <edge source="Gene" target="Oncogene" id="565" weight="372" />
+      <edge source="Gene" target="Mol Cell Biol" id="566" weight="352" />
+      <edge source="Gene" target="EMBO J" id="567" weight="295" />
+      <edge source="Gene" target="FEBS Lett" id="568" weight="283" />
+      <edge source="Gene" target="Nucleic Acids Res" id="569" weight="277" />
+      <edge source="Gene" target="FEBS Letters" id="570" weight="212" />
+      <edge source="Gene" target="Nucleic Acids Research" id="571" weight="242" />
+      <edge source="Gene" target="Molecular and Cellular Biology" id="572" weight="234" />
+      <edge source="Gene" target="The EMBO Journal" id="573" weight="223" />
+      <edge source="Gene" target="Blood" id="574" weight="215" />
+      <edge source="Gene" target="Genome Research" id="575" weight="312" />
+      <edge source="Biochemistry" target="The Biochemical Journal" id="576" weight="440" />
+      <edge source="Biochemistry" target="FEBS Lett" id="577" weight="235" />
+      <edge source="Biochemistry" target="FEBS Letters" id="578" weight="281" />
+      <edge source="Biochemistry" target="Nucleic Acids Research" id="579" weight="211" />
+      <edge source="Biochemistry" target="The EMBO Journal" id="580" weight="208" />
+      <edge source="Biochemistry" target="Biochimica et Biophysica Acta" id="581" weight="285" />
+      <edge source="Biochemistry" target="Biochim Biophys Acta" id="582" weight="242" />
+      <edge source="Biochemistry" target="Journal of Molecular Biology" id="583" weight="261" />
+      <edge source="The NamesforLife Abstracts" target="wwwdsmzde" id="584" weight="736" />
+      <edge source="The NamesforLife Abstracts" target="wwwstraininfonet" id="585" weight="474" />
+      <edge source="The Biochemical Journal" target="Oncogene" id="586" weight="271" />
+      <edge source="The Biochemical Journal" target="Mol Cell Biol" id="587" weight="217" />
+      <edge source="The Biochemical Journal" target="EMBO J" id="588" weight="205" />
+      <edge source="The Biochemical Journal" target="FEBS Lett" id="589" weight="280" />
+      <edge source="The Biochemical Journal" target="FEBS Letters" id="590" weight="247" />
+      <edge source="The Biochemical Journal" target="Biochimica et Biophysica Acta" id="591" weight="246" />
+      <edge source="The Biochemical Journal" target="Biochim Biophys Acta" id="592" weight="232" />
+      <edge source="wwwdsmzde" target="wwwstraininfonet" id="593" weight="676" />
+      <edge source="Oncogene" target="Mol Cell Biol" id="594" weight="409" />
+      <edge source="Oncogene" target="EMBO J" id="595" weight="312" />
+      <edge source="Oncogene" target="Molecular and Cellular Biology" id="596" weight="338" />
+      <edge source="Oncogene" target="The EMBO Journal" id="597" weight="237" />
+      <edge source="Oncogene" target="Blood" id="598" weight="265" />
+      <edge source="Oncogene" target="Cancer Res" id="599" weight="257" />
+      <edge source="Oncogene" target="Cancer Research" id="600" weight="264" />
+      <edge source="Mol Cell Biol" target="FEBS Lett" id="601" weight="254" />
+      <edge source="Mol Cell Biol" target="Nucleic Acids Res" id="602" weight="321" />
+      <edge source="Mol Cell Biol" target="J Cell Biol" id="603" weight="230" />
+      <edge source="Mol Cell Biol" target="Cancer Res" id="604" weight="211" />
+      <edge source="Mol Cell Biol" target="Genes Dev" id="605" weight="315" />
+      <edge source="Mol Cell Biol" target="Mol Cell" id="606" weight="298" />
+      <edge source="Nature Communications" target="Current Biology" id="607" weight="255" />
+      <edge source="Nature Communications" target="Scientific Reports" id="608" weight="362" />
+      <edge source="EMBO J" target="FEBS Lett" id="609" weight="272" />
+      <edge source="EMBO J" target="Nucleic Acids Res" id="610" weight="272" />
+      <edge source="EMBO J" target="J Cell Biol" id="611" weight="230" />
+      <edge source="EMBO J" target="Genes Dev" id="612" weight="233" />
+      <edge source="EMBO J" target="Mol Cell" id="613" weight="272" />
+      <edge source="Astronomy and Astrophysics" target="Astronomy Letters" id="614" weight="359" />
+      <edge source="Astronomy and Astrophysics" target="Astrophysical Journal" id="615" weight="290" />
+      <edge source="Astronomy and Astrophysics" target="CDSADC Collection of Electronic Catalogues" id="616" weight="274" />
+      <edge source="Astronomy and Astrophysics" target="Publications of the Astronomical Society of the Pacific" id="617" weight="230" />
+      <edge source="Astronomy and Astrophysics" target="The Astrophysical Journal Supplement Series" id="618" weight="226" />
+      <edge source="Astronomy and Astrophysics" target="VizieR Online Data Catalog Bgcvs  Originally Published in 2009yCat102025S" id="619" weight="206" />
+      <edge source="The Astrophysical Journal" target="Astrophysical Journal" id="620" weight="334" />
+      <edge source="The Astrophysical Journal" target="The Astrophysical Journal Letters" id="621" weight="298" />
+      <edge source="The Astrophysical Journal" target="Publications of the Astronomical Society of the Pacific" id="622" weight="271" />
+      <edge source="The Astrophysical Journal" target="The Astrophysical Journal Supplement Series" id="623" weight="253" />
+      <edge source="Current Biology" target="Scientific Reports" id="624" weight="230" />
+      <edge source="Monthly Notices of the Royal Astronomical Society" target="Astronomy Letters" id="625" weight="210" />
+      <edge source="Monthly Notices of the Royal Astronomical Society" target="Astrophysical Journal" id="626" weight="300" />
+      <edge source="Monthly Notices of the Royal Astronomical Society" target="Publications of the Astronomical Society of the Pacific" id="627" weight="218" />
+      <edge source="Monthly Notices of the Royal Astronomical Society" target="The Astrophysical Journal Supplement Series" id="628" weight="220" />
+      <edge source="Nucleic Acids Res" target="EMBO Rep" id="629" weight="218" />
+      <edge source="FEBS Letters" target="Nucleic Acids Research" id="630" weight="211" />
+      <edge source="FEBS Letters" target="Molecular and Cellular Biology" id="631" weight="243" />
+      <edge source="FEBS Letters" target="The EMBO Journal" id="632" weight="269" />
+      <edge source="FEBS Letters" target="Biochimica et Biophysica Acta" id="633" weight="270" />
+      <edge source="FEBS Letters" target="Genome Research" id="634" weight="200" />
+      <edge source="FEBS Letters" target="Journal of Molecular Biology" id="635" weight="205" />
+      <edge source="Nucleic Acids Research" target="Molecular and Cellular Biology" id="636" weight="370" />
+      <edge source="Nucleic Acids Research" target="The EMBO Journal" id="637" weight="346" />
+      <edge source="Nucleic Acids Research" target="Genome Research" id="638" weight="377" />
+      <edge source="Nucleic Acids Research" target="Nature Genetics" id="639" weight="234" />
+      <edge source="Nucleic Acids Research" target="Journal of Molecular Biology" id="640" weight="324" />
+      <edge source="Nucleic Acids Research" target="Molecular Cell" id="641" weight="201" />
+      <edge source="Molecular and Cellular Biology" target="Genome Research" id="642" weight="240" />
+      <edge source="Molecular and Cellular Biology" target="Nature Genetics" id="643" weight="225" />
+      <edge source="Molecular and Cellular Biology" target="Molecular Cell" id="644" weight="283" />
+      <edge source="Molecular and Cellular Biology" target="Cancer Research" id="645" weight="221" />
+      <edge source="Molecular and Cellular Biology" target="Genes  Development" id="646" weight="310" />
+      <edge source="The EMBO Journal" target="Genome Research" id="647" weight="208" />
+      <edge source="The EMBO Journal" target="Nature Genetics" id="648" weight="202" />
+      <edge source="The EMBO Journal" target="Journal of Molecular Biology" id="649" weight="219" />
+      <edge source="The EMBO Journal" target="The Journal of Cell Biology" id="650" weight="254" />
+      <edge source="The EMBO Journal" target="Molecular Cell" id="651" weight="274" />
+      <edge source="The EMBO Journal" target="Genes  Development" id="652" weight="253" />
+      <edge source="Biochimica et Biophysica Acta" target="Journal of Molecular Biology" id="653" weight="211" />
+      <edge source="Blood" target="Journal of Immunology" id="654" weight="206" />
+      <edge source="The Astronomical Journal" target="Astronomy  Astrophysics" id="655" weight="495" />
+      <edge source="The Astronomical Journal" target="Publications of the Astronomical Society of the Pacific" id="656" weight="223" />
+      <edge source="The Astronomical Journal" target="The Astrophysical Journal Supplement Series" id="657" weight="205" />
+      <edge source="Genome Research" target="Nature Genetics" id="658" weight="269" />
+      <edge source="Nature Genetics" target="American Journal of Human Genetics" id="659" weight="316" />
+      <edge source="Nature Genetics" target="Human Molecular Genetics" id="660" weight="303" />
+      <edge source="Astronomy  Astrophysics" target="Astronomy Letters" id="661" weight="201" />
+      <edge source="Astronomy  Astrophysics" target="Astrophysical Journal" id="662" weight="201" />
+      <edge source="Physical Review Letters" target="Physical Review B" id="663" weight="338" />
+      <edge source="Physical Review Letters" target="Physical Review D" id="664" weight="295" />
+      <edge source="Physical Review Letters" target="Physical Review" id="665" weight="260" />
+      <edge source="Physical Review Letters" target="Reviews of Modern Physics" id="666" weight="257" />
+      <edge source="Physical Review Letters" target="Physical Review A" id="667" weight="236" />
+      <edge source="BMJ" target="JAMA" id="668" weight="400" />
+      <edge source="BMJ" target="The Cochrane Database of Systematic Reviews" id="669" weight="369" />
+      <edge source="BMJ" target="The New England Journal of Medicine" id="670" weight="265" />
+      <edge source="BMJ" target="Annals of Internal Medicine" id="671" weight="225" />
+      <edge source="Lancet" target="New England Journal of Medicine" id="672" weight="383" />
+      <edge source="Lancet" target="Annals of Internal Medicine" id="673" weight="291" />
+      <edge source="Lancet" target="Cochrane Database of Systematic Reviews" id="674" weight="215" />
+      <edge source="Lancet" target="N Engl J Med" id="675" weight="275" />
+      <edge source="Lancet" target="Pediatrics" id="676" weight="248" />
+      <edge source="Lancet" target="British Medical Journal" id="677" weight="242" />
+      <edge source="Lancet" target="Circulation" id="678" weight="224" />
+      <edge source="J Cell Biol" target="J Cell Sci" id="679" weight="213" />
+      <edge source="Neuron" target="The Journal of Neuroscience" id="680" weight="287" />
+      <edge source="Neuron" target="Nature Neuroscience" id="681" weight="243" />
+      <edge source="The Journal of Cell Biology" target="Journal of Cell Science" id="682" weight="245" />
+      <edge source="JAMA" target="The Cochrane Database of Systematic Reviews" id="683" weight="318" />
+      <edge source="JAMA" target="The New England Journal of Medicine" id="684" weight="305" />
+      <edge source="JAMA" target="New England Journal of Medicine" id="685" weight="235" />
+      <edge source="JAMA" target="Annals of Internal Medicine" id="686" weight="248" />
+      <edge source="JAMA" target="N Engl J Med" id="687" weight="207" />
+      <edge source="Molecular Cell" target="Genes  Development" id="688" weight="226" />
+      <edge source="American Journal of Human Genetics" target="Human Molecular Genetics" id="689" weight="247" />
+      <edge source="American Journal of Human Genetics" target="Human Genetics" id="690" weight="202" />
+      <edge source="Journal of Vertebrate Paleontology" target="Zoological Journal of the Linnean Society" id="691" weight="354" />
+      <edge source="Journal of Vertebrate Paleontology" target="Palaeontology" id="692" weight="333" />
+      <edge source="Journal of Vertebrate Paleontology" target="Acta Palaeontologica Polonica" id="693" weight="326" />
+      <edge source="Journal of Vertebrate Paleontology" target="PeerJ" id="694" weight="245" />
+      <edge source="Journal of Vertebrate Paleontology" target="Journal of Paleontology" id="695" weight="288" />
+      <edge source="Journal of Vertebrate Paleontology" target="Journal of Systematic Palaeontology" id="696" weight="270" />
+      <edge source="Journal of Vertebrate Paleontology" target="Cretaceous Research" id="697" weight="248" />
+      <edge source="The Cochrane Database of Systematic Reviews" target="The New England Journal of Medicine" id="698" weight="314" />
+      <edge source="The Cochrane Database of Systematic Reviews" target="Annals of Internal Medicine" id="699" weight="208" />
+      <edge source="The Cochrane Database of Systematic Reviews" target="Cochrane Database of Systematic Reviews" id="700" weight="276" />
+      <edge source="The Cochrane Database of Systematic Reviews" target="American Family Physician" id="701" weight="210" />
+      <edge source="Journal of the American Chemical Society" target="Angewandte Chemie International Edition" id="702" weight="349" />
+      <edge source="Journal of the American Chemical Society" target="Chemical Reviews" id="703" weight="295" />
+      <edge source="Journal of the American Chemical Society" target="J Am Chem Soc" id="704" weight="253" />
+      <edge source="Journal of the American Chemical Society" target="The Journal of Organic Chemistry" id="705" weight="203" />
+      <edge source="Journal of Immunology" target="The Journal of Experimental Medicine" id="706" weight="210" />
+      <edge source="Entertainment Weekly" target="Rolling Stone" id="707" weight="368" />
+      <edge source="Entertainment Weekly" target="Spin" id="708" weight="233" />
+      <edge source="Entertainment Weekly" target="Q" id="709" weight="220" />
+      <edge source="Entertainment Weekly" target="NME" id="710" weight="228" />
+      <edge source="Rolling Stone" target="Spin" id="711" weight="309" />
+      <edge source="Rolling Stone" target="Q" id="712" weight="300" />
+      <edge source="Rolling Stone" target="NME" id="713" weight="293" />
+      <edge source="Rolling Stone" target="Billboard" id="714" weight="257" />
+      <edge source="Geophysical Research Letters" target="Journal of Geophysical Research" id="715" weight="243" />
+      <edge source="Palaeontology" target="Acta Palaeontologica Polonica" id="716" weight="218" />
+      <edge source="Palaeontology" target="Journal of Paleontology" id="717" weight="264" />
+      <edge source="Molecular Phylogenetics and Evolution" target="Zootaxa" id="718" weight="225" />
+      <edge source="Mycologia" target="Mycotaxon" id="719" weight="315" />
+      <edge source="Spin" target="NME" id="720" weight="207" />
+      <edge source="Spin" target="Billboard" id="721" weight="225" />
+      <edge source="Q" target="NME" id="722" weight="230" />
+      <edge source="Fauna of New Zealand" target="Transactions and Proceedings of the New Zealand Institute" id="723" weight="288" />
+      <edge source="Journal of Mammalogy" target="Mammalian Species" id="724" weight="277" />
+      <edge source="Zootaxa" target="ZooKeys" id="725" weight="226" />
+      <edge source="Journal of Personality and Social Psychology" target="Psychological Bulletin" id="726" weight="261" />
+      <edge source="Journal of Personality and Social Psychology" target="Psychological Science" id="727" weight="205" />
+      <edge source="Journal of Personality and Social Psychology" target="Personality and Social Psychology Bulletin" id="728" weight="203" />
+      <edge source="Journal of Personality and Social Psychology" target="Psychological Review" id="729" weight="200" />
+      <edge source="Animal Behaviour" target="Behavioral Ecology and Sociobiology" id="730" weight="259" />
+      <edge source="Botanical Journal of the Linnean Society" target="Phytotaxa" id="731" weight="237" />
+      <edge source="The New York Times" target="Variety" id="732" weight="206" />
+    </edges>
+  </graph>
+</gexf>
