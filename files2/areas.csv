@@ -1,4 +1,4 @@
-﻿journal_name;areas
+﻿journal_name;area
 21st Century Music;SSH
 2D Materials;PS
 3 Biotech;LS & PS
@@ -50,7 +50,7 @@ AAPS PharmSciTech;LS, PS & HS
 Aardkundige Mededelingen;PS
 AARN news letter;HS
 AAS History Series;SSH
-AAS Open Research;HS
+AAS Open Research;Multi
 AATCC Journal of Research;PS
 AATCC Review;PS
 AB bookman's weekly : for the specialist book world;HS
@@ -310,7 +310,7 @@ Acta Biomedica;HS
 Acta Biomedica Scientifica;LS
 Acta Bioquimica Clinica Latinoamericana;LS
 Acta Biotechnologica;LS & PS
-Acta Biotheoretica;Multidisciplinary
+Acta Biotheoretica;Multi
 Acta Borealia;SSH
 Acta Botanica Brasilica;LS
 Acta Botanica Croatica;LS
@@ -2039,7 +2039,7 @@ American Journal of Alzheimer's Disease and other Dementias;LS, SSH & HS
 American Journal of Anatomy;HS
 American Journal of Anesthesiology;HS
 American Journal of Animal and Veterinary Sciences;LS & HS
-American Journal of Applied Sciences;HS
+American Journal of Applied Sciences;Multi
 American Journal of Archaeology;SSH
 American Journal of Art Therapy;LS & HS
 American Journal of Audiology;HS
@@ -2259,7 +2259,7 @@ American Review of Canadian Studies;SSH & PS
 American Review of Public Administration;SSH
 American Review of Respiratory Disease;HS
 American Scholar;SSH
-American Scientist;HS
+American Scientist;Multi
 American Society of Civil Engineers, Journal of the Construction Division;PS
 American Society of Civil Engineers, Journal of the Environmental Engineering Division;HS
 American Society of Civil Engineers, Journal of the Hydraulics Division;PS
@@ -2317,7 +2317,7 @@ Anafora;SSH
 Anais Brasileiros de Dermatologia;HS
 Anais brasileiros de dermatologia e sifilografia;HS
 Anais brasileiros de ginecologia;HS
-Anais da Academia Brasileira de Ciencias;HS
+Anais da Academia Brasileira de Ciencias;Multi
 Anais da Escola Nacional de Saude Publica e de Medicina Tropical;HS
 Anais de enfermagem;HS
 Anais de Historia de Alem-Mar;SSH
@@ -2931,7 +2931,7 @@ Annual Review of Cognitive Linguistics;SSH
 Annual Review of Condensed Matter Physics;PS
 Annual Review of Control, Robotics, and Autonomous Systems;PS & HS
 Annual Review of Criminology;SSH
-Annual Review of CyberTherapy and Telemedicine;Multidisciplinary
+Annual Review of CyberTherapy and Telemedicine;Multi
 Annual Review of Earth and Planetary Sciences;PS
 Annual Review of Ecology and Systematics;PS
 Annual Review of Ecology, Evolution, and Systematics;LS & PS
@@ -3375,7 +3375,7 @@ Arab Media and Society;SSH
 Arab Studies Quarterly;SSH
 Arab World Geographer;SSH & PS
 Arabian Archaeology and Epigraphy;SSH
-Arabian Journal for Science and Engineering;HS
+Arabian Journal for Science and Engineering;Multi
 Arabian Journal of Chemistry;PS
 Arabian Journal of Geosciences;PS
 Arabian Journal of Mathematics;PS
@@ -3547,8 +3547,8 @@ Archives des Maladies du Coeur et des Vaisseaux - Pratique;HS
 Archives des Maladies Professionnelles de Medecine du Travail et de Securite Sociale;HS
 Archives des Maladies Professionnelles et de l'Environnement;HS
 Archives des Maladies Professionnelles et de Medecine du Travail;HS
-Archives des Sciences;HS
-Archives des Sciences et Compte Rendu Seances de la Societe;HS
+Archives des Sciences;Multi
+Archives des Sciences et Compte Rendu Seances de la Societe;Multi
 Archives d'Histoire Doctrinale et Litteraire du Moyen-Age;SSH
 Archives d'ophtalmologie;HS
 Archives d'Ophtalmologie et Revue Generale d'Ophtalmologie;LS & HS
@@ -4072,7 +4072,7 @@ Asian Journal of Anesthesiology;HS
 Asian Journal of Animal and Veterinary Advances;LS & HS
 Asian Journal of Animal Sciences;LS
 Asian Journal of Applied Linguistics;SSH
-Asian Journal of Applied Sciences;HS
+Asian Journal of Applied Sciences;Multi
 Asian Journal of Atmospheric Environment;PS
 Asian Journal of Biochemistry;LS & HS
 Asian Journal of Business and Accounting;SSH
@@ -4116,7 +4116,7 @@ Asian Journal of Plant Sciences;LS
 Asian Journal of Political Science;SSH
 Asian Journal of Poultry Science;LS & HS
 Asian Journal of Psychiatry;SSH & HS
-Asian Journal of Scientific Research;HS
+Asian Journal of Scientific Research;Multi
 Asian Journal of Shipping and Logistics;SSH
 Asian Journal of Social Health and Behavior;SSH & HS
 Asian Journal of Social Psychology;SSH
@@ -4216,7 +4216,7 @@ ASLE transactions;PS
 Aslib Journal of Information Management;SSH & PS
 Aslib Proceedings: New Information Prespectives;SSH & PS
 ASM News;LS
-ASM Science Journal;HS
+ASM Science Journal;Multi
 ASM-Trans;PS
 ASN Neuro;LS & HS
 ASp;SSH
@@ -4490,7 +4490,7 @@ Australian Journal of Agricultural and Resource Economics;LS & SSH
 Australian Journal of Agricultural Economics;LS & PS
 Australian Journal of Agricultural Research;LS
 Australian Journal of Audiology;HS
-Australian Journal of Basic and Applied Sciences;HS
+Australian Journal of Basic and Applied Sciences;Multi
 Australian Journal of Biological Sciences;LS, PS & HS
 Australian journal of biotechnology;HS
 Australian Journal of Botany;LS
@@ -4848,7 +4848,7 @@ Behavioral Neuroscience;LS
 Behavioral Research in Accounting;SSH
 Behavioral Residential Treatment;HS
 Behavioral Science;LS
-Behavioral Science and Policy;Multidisciplinary
+Behavioral Science and Policy;Multi
 Behavioral Sciences;LS & SSH
 Behavioral Sciences and the Law;SSH & HS
 Behavioral Sciences of Terrorism and Political Aggression;SSH
@@ -4869,7 +4869,7 @@ Behavioural Psychotherapy;HS
 Behring Institute Mitteilungen;LS
 Beifang Jiaotong Daxue Xuebao/Journal of Northern Jiaotong University;PS
 Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences;HS
-Beijing Daxue Xuebao (Ziran Kexue Ban)/Acta Scientiarum Naturalium Universitatis Pekinensis;HS
+Beijing Daxue Xuebao (Ziran Kexue Ban)/Acta Scientiarum Naturalium Universitatis Pekinensis;Multi
 Beijing Gongye Daxue Xuebao / Journal of Beijing University of Technology;PS
 Beijing Hangkong Hangtian Daxue Xuebao/Journal of Beijing University of Aeronautics and Astronautics;PS
 Beijing Huagong Daxue Xuebao (Ziran Kexueban)/Journal of Beijing University of Chemical Technology (Natural Science Edition);PS
@@ -5797,7 +5797,7 @@ Bratislava Medical Journal / Bratislavske Lekarske Listy;HS
 Braunkohle/Surface Mining;PS
 Braunschweiger Naturkundliche Schriften;PS
 Brauwissenschaft;HS
-Brazilian Archives of Biology and Technology;HS
+Brazilian Archives of Biology and Technology;Multi
 Brazilian Archives of Digestive Surgery;HS
 Brazilian Business Review;SSH
 Brazilian Dental Journal;HS
@@ -6149,8 +6149,8 @@ Bulletin de la Societe Mathematique de France;PS
 Bulletin de la Societe Medicale d'Afrique Noire de Langue Francaise;HS
 Bulletin de la Societe Prehistorique Francaise;SSH
 Bulletin de la Societe Royale de Botanique de Belgique;LS
-Bulletin de la Societe Royale des Sciences de Liege;HS
-Bulletin de la Societe Vaudoise des Sciences Naturelles;HS
+Bulletin de la Societe Royale des Sciences de Liege;Multi
+Bulletin de la Societe Vaudoise des Sciences Naturelles;Multi
 Bulletin de la Societe Zoologique de France;LS
 Bulletin de l'Academie Nationale de Medecine;HS
 Bulletin de l'Academie Polonaise des Sciences. Serie des Sciences de la Terre;PS
@@ -6297,7 +6297,7 @@ Bulletin of the Geological Society of Malaysia;PS
 Bulletin of the Geological Survey of Canada;PS
 Bulletin of the Geological Survey of Finland;PS
 Bulletin of the Geological Survey of Japan;PS
-Bulletin of the Georgian National Academy of Sciences;HS
+Bulletin of the Georgian National Academy of Sciences;Multi
 Bulletin of the history of dentistry;HS
 Bulletin of the History of Medicine;SSH & HS
 Bulletin of the Hospital for Joint Disease (2013);HS
@@ -6928,7 +6928,7 @@ Career Development Quarterly;SSH
 Cargo Systems;SSH
 Cargo Systems International;SSH & PS
 Caribbean Geography;SSH & PS
-Caribbean Journal of Science;HS
+Caribbean Journal of Science;Multi
 Caribbean Quarterly;SSH
 Caribbean Studies;HS
 Caries Research;HS
@@ -7547,7 +7547,7 @@ Chinese Academy of Social Sciences Yearbooks: Legal Development;SSH
 Chinese Academy of Social Sciences Yearbooks: Population and Labor;SSH
 Chinese Academy of Social Sciences Yearbooks: Society;SSH
 Chinese and Comparative Law Series;SSH
-Chinese Annals of History of Science and Technology;HS
+Chinese Annals of History of Science and Technology;Multi
 Chinese Annals of Mathematics. Series B;PS
 Chinese as a Second Language Research;SSH
 Chinese Astronomy;PS
@@ -7714,7 +7714,7 @@ Chinese Physics C;PS
 Chinese Physics Letters;PS
 Chinese Political Science Review;SSH
 Chinese Rare Earths;PS
-Chinese Science Bulletin;HS
+Chinese Science Bulletin;Multi
 Chinese Semiotic Studies;SSH
 Chinese Sociological Review;SSH
 Chinese Sociology and Anthropology;SSH
@@ -7795,11 +7795,11 @@ Church, Communication and Culture;SSH
 CI News (Ceramics International);PS
 CIAN-Revista de Historia de las Universidades;SSH
 Ciba clinical symposia;HS
-Ciba Foundation symposium;HS
+Ciba Foundation symposium;Multi
 Ciceroniana On Line;SSH
 CICIMAR Oceanides;LS & PS
 Cidades;SSH
-Ciencia and Engenharia/ Science and Engineering Journal;HS
+Ciencia and Engenharia/ Science and Engineering Journal;Multi
 Ciencia Animal Brasileira;LS & HS
 Ciencia da Informacao;SSH
 Ciencia del Suelo;LS
@@ -7880,7 +7880,7 @@ Citeaux;SSH
 Cithara;SSH
 Cities;SSH
 Cities and Health;HS
-Citizen Science: Theory and Practice;HS
+Citizen Science: Theory and Practice;Multi
 Citizenship Studies;SSH
 Citizenship Teaching and Learning;SSH
 Citizenship, Social and Economics Education;SSH
@@ -8421,7 +8421,7 @@ Cognitive Neurodynamics;LS
 Cognitive Neuropsychiatry;LS & HS
 Cognitive Neuropsychology;LS & SSH
 Cognitive Neuroscience;LS
-Cognitive Processing;Multidisciplinary
+Cognitive Processing;Multi
 Cognitive Psychology;SSH & PS
 Cognitive Research: Principles and Implications;LS & SSH
 Cognitive Science;LS, SSH & PS
@@ -8794,7 +8794,7 @@ Comptes Rendus - Mecanique;PS
 Comptes Rendus - Palevol;PS
 Comptes Rendus Chimie;PS
 Comptes Rendus de Academie des Sciences, Paris, Serie II;PS
-Comptes Rendus de l 'Academie Bulgare des Sciences;HS
+Comptes Rendus de l 'Academie Bulgare des Sciences;Multi
 Comptes Rendus de l'Academie de Sciences - Serie IIb: Mecanique;PS
 Comptes Rendus de l'Academie de Sciences - Serie IIb: Mecanique, Physique, Chimie, Astronomie;PS
 Comptes Rendus de l'Academie des Sciences - Series I: Mathematics;PS
@@ -9952,7 +9952,7 @@ Current Reviews in Clinical and Experimental Pharmacology;SSH & HS
 Current Reviews in Musculoskeletal Medicine;HS
 Current Rheumatology Reports;HS
 Current Rheumatology Reviews;HS
-Current Science;HS
+Current Science;Multi
 Current Sexual Health Reports;HS
 Current Signal Transduction Therapy;LS & HS
 Current Sleep Medicine Reports;LS & HS
@@ -10135,7 +10135,7 @@ Data Base for Advances in Information Systems;SSH & PS
 Data bulletin (Center for Studying Health System Change);HS
 Data Communications;PS
 Data Handling in Science and Technology;PS
-Data in Brief;HS
+Data in Brief;Multi
 Data Intelligence;SSH & PS
 Data Mining and Knowledge Discovery;PS
 Data Processing;PS
@@ -10805,7 +10805,7 @@ Doga, Turkish Journal of Engineering and Environmental Sciences;PS
 Doga, Turkish Journal of Physics;PS
 Dokkyo Journal of Medical Sciences;HS
 Doklady - Akademiya Nauk SSSR, Earth Science Sections;PS
-Doklady Akademii Nauk;HS
+Doklady Akademii Nauk;Multi
 Doklady Biochemistry;LS
 Doklady Biochemistry and Biophysics;LS, PS & HS
 Doklady Biological Sciences;LS & HS
@@ -11280,7 +11280,7 @@ ED management : the monthly update on emergency department management;HS
 ED Nursing;HS
 Edad de Oro;SSH
 Edad Media;SSH
-Edelweiss Applied Science and Technology;HS
+Edelweiss Applied Science and Technology;Multi
 Edgar Allan Poe Review;SSH
 EDI Law Review;PS
 Edinburgh Journal of Botany;LS
@@ -11673,7 +11673,7 @@ EMC - Toxicologie-Pathologie;LS & HS
 EMC - Veterinaire;HS
 EMedia Magazine;PS
 Emerald Emerging Markets Case Studies;SSH
-Emerald Reach Proceedings Series;HS
+Emerald Reach Proceedings Series;Multi
 Emergence: Complexity and Organization;SSH
 Emergencias;HS
 Emergency;HS
@@ -11701,7 +11701,7 @@ Emerging Markets Finance and Trade;SSH
 Emerging Markets Review;SSH
 Emerging Materials Research;PS
 Emerging Microbes and Infections;LS & HS
-Emerging Science Journal;HS
+Emerging Science Journal;Multi
 Emerging Themes in Epidemiology;HS
 Emerging topics in life sciences;LS
 Emerita / Junta para Ampliacion de Estudios, Centro de Estudios Historicos;SSH
@@ -12739,7 +12739,7 @@ European Journal of Inorganic Chemistry;PS
 European Journal of Integrative Medicine;HS
 European Journal of Intensive Care Medicine;HS
 European Journal of Intercultural Studies;SSH
-European Journal of Interdisciplinary Studies;HS
+European Journal of Interdisciplinary Studies;Multi
 European Journal of Internal Medicine;HS
 European Journal of International Law;SSH
 European Journal of International Management;SSH
@@ -13248,7 +13248,7 @@ Fabrications;SSH
 Fabrics and Architecture;SSH & PS
 Fabriksoftware;SSH & PS
 Fabula;SSH
-Facets;HS
+Facets;Multi
 Fachhefte Grafische Industrie, Bulletin Technique;PS
 Fachsprache;SSH
 Facial Plastic Surgery;HS
@@ -13755,7 +13755,7 @@ Foot and Ankle Orthopaedics;HS
 Foot and Ankle Specialist;HS
 Foot and Ankle Surgery;HS
 Footprint;SSH & PS
-Footwear Science;Multidisciplinary
+Footwear Science;Multi
 Fooyin Journal of Health Sciences;LS, PS & HS
 For the Learning of Mathematics;SSH & PS
 Fordham Law Review;SSH
@@ -13780,7 +13780,7 @@ Forensic Science International: Reports;HS
 Forensic Science International: Synergy;SSH & HS
 Forensic Science Review;HS
 Forensic Science, Medicine, and Pathology;HS
-Forensic Sciences Research;Multidisciplinary
+Forensic Sciences Research;Multi
 Forensic Toxicology;LS & HS
 Forensische Psychiatrie, Psychologie, Kriminologie;SSH & HS
 Foresight;SSH
@@ -14181,7 +14181,7 @@ Fundamental and Applied Mathematics;PS
 Fundamental and Applied Nematology;LS
 Fundamental and Applied Toxicology;LS
 Fundamental and Clinical Pharmacology;LS & HS
-Fundamental Research;HS
+Fundamental Research;Multi
 Fundamental Theories of Physics;PS
 Fundamentalnaya i Prikladnaya Gidrofizika;PS
 Fundamentals of Interface and Colloid Science;PS
@@ -15652,7 +15652,7 @@ Helia;LS
 Helicobacter;HS
 Helictite;PS
 Helios;SSH
-Heliyon;HS
+Heliyon;Multi
 Hellenic Journal of Cardiology;HS
 Hellenic journal of cardiology : HJC = Hellenike kardiologike epitheorese;HS
 Hellenic Journal of Gastroenterology;HS
@@ -16291,7 +16291,7 @@ Human-Wildlife Interactions;PS
 Humboldt Journal of Social Relations;SSH
 Hume Studies;SSH
 Humor;SSH
-Hunan Daxue Xuebao/Journal of Hunan University Natural Sciences;HS
+Hunan Daxue Xuebao/Journal of Hunan University Natural Sciences;Multi
 Hungarian Geographical Bulletin;SSH & PS
 Hungarian Journal of English and American Studies;SSH
 Hungarian Journal of Industrial Chemistry;PS
@@ -17035,7 +17035,7 @@ Indian Journal of Fibre and Textile Research;PS
 Indian Journal of Finance;SSH
 Indian Journal of Fisheries;LS
 Indian Journal of Forensic Medicine and Pathology;HS
-Indian Journal of Forensic Medicine and Toxicology;Multidisciplinary
+Indian Journal of Forensic Medicine and Toxicology;Multi
 Indian Journal of Gastroenterology;HS
 Indian Journal of Gender Studies;SSH
 Indian Journal of Genetics and Plant Breeding;LS
@@ -17101,7 +17101,7 @@ Indian Journal of Radiology;HS
 Indian Journal of Radiology and Imaging;HS
 Indian Journal of Research in Homoeopathy;HS
 Indian Journal of Rheumatology;HS
-Indian Journal of Science and Technology;HS
+Indian Journal of Science and Technology;Multi
 Indian Journal of Sericulture;LS & SSH
 Indian Journal of Sexually Transmitted Diseases;HS
 Indian Journal of Sexually Transmitted Diseases and AIDS;HS
@@ -17602,7 +17602,7 @@ Interactive Technology and Smart Education;SSH & PS
 Inter-Asia Cultural Studies;SSH
 InterCeram: International Ceramic Review;PS
 Interchange;SSH
-Interciencia;HS
+Interciencia;Multi
 Intercultural Education;SSH
 Intercultural Pragmatics;SSH
 Interdisciplinaria;SSH
@@ -17829,7 +17829,7 @@ International Journal of Adhesion and Adhesives;PS
 International Journal of Adolescence and Youth;SSH
 International Journal of Adolescent Medicine and Health;HS
 International Journal of Adult, Community and Professional Learning;SSH
-International Journal of Advanced and Applied Sciences;HS
+International Journal of Advanced and Applied Sciences;Multi
 International Journal of Advanced Computer Research;PS
 International Journal of Advanced Computer Science and Applications;PS
 International Journal of Advanced Intelligence Paradigms;PS
@@ -18652,7 +18652,7 @@ International Journal of Innovation Studies;SSH
 International Journal of Innovation, Creativity and Change;SSH
 International Journal of Innovative Computing and Applications;PS
 International Journal of Innovative Computing, Information and Control;PS
-International Journal of Innovative Research and Scientific Studies;HS
+International Journal of Innovative Research and Scientific Studies;Multi
 International Journal of Innovative Technology and Exploring Engineering;PS
 International Journal of Inorganic Materials;PS
 International Journal of Insect Morphology and Embryology;LS
@@ -18718,7 +18718,7 @@ International Journal of Knowledge-Based Development;SSH
 International Journal of Korean History;SSH
 International Journal of Laboratory Hematology;LS & HS
 International Journal of Language and Communication Disorders;SSH & HS
-International Journal of Language and Culture;HS
+International Journal of Language and Culture;Multi
 International Journal of Language Education;SSH
 International Journal of Language Studies;SSH
 International Journal of Language Testing;SSH
@@ -19855,7 +19855,7 @@ Iowa medicine : journal of the Iowa Medical Society;HS
 IPA Bulletin;PS
 IPCS Concise International Chemical Assessment Documents;PS
 IPE International, Industrial & Production Engineering;PS
-i-Perception;Multidisciplinary
+i-Perception;Multi
 IPPF Medical Bulletin, English Edition;HS
 Ippologia;HS
 IPPR Progressive Review;SSH
@@ -20039,7 +20039,7 @@ Irrigation Science;LS & PS
 IRYO - Japanese Journal of National Medical Services;HS
 ISA Transactions;PS
 ISACA Journal;PS
-iScience;HS
+iScience;Multi
 ISeCure;PS
 Isegoria;SSH
 ISET Journal of Earthquake Technology;PS
@@ -20073,7 +20073,7 @@ Isotopes in Environmental and Health Studies;PS
 ISPRS International Journal of Geo-Information;SSH & PS
 ISPRS Journal of Photogrammetry and Remote Sensing;PS
 ISRA International Journal of Islamic Finance;SSH
-Israa University Journal of Applied Science;HS
+Israa University Journal of Applied Science;Multi
 Israel Affairs;SSH
 Israel Annals of Psychiatry and Related Disciplines;HS
 Israel Economic Review;SSH
@@ -20130,7 +20130,7 @@ Issues in Legal Scholarship;SSH
 Issues in medical ethics.;HS
 Issues in Mental Health Nursing;HS
 Issues in reproductive and genetic engineering : journal of international feminist analysis;HS
-Issues in Science and Technology;HS
+Issues in Science and Technology;Multi
 Issues in Science and Technology Librarianship;SSH & PS
 Issues in Toxicology;LS & PS
 Istanbul Tip Fakultesi Mecmuasi;HS
@@ -20194,7 +20194,7 @@ Italienisch;SSH
 Italus Hortus;LS
 ITB Journal of Engineering Science;PS
 ITB Journal of Information and Communication Technology;PS
-ITB Journal of Science;HS
+ITB Journal of Science;Multi
 ITBM-RBM;LS
 ITBM-RBM News;PS & HS
 ITC Journal;PS
@@ -20500,7 +20500,7 @@ Jikeikai Medical Journal;HS
 Jikken dobutsu. Experimental animals;HS
 Jiliang Xuebao/Acta Metrologica Sinica;PS
 Jilin Daxue Xuebao (Diqiu Kexue Ban)/Journal of Jilin University (Earth Science Edition);PS
-Jilin Daxue Xuebao (Gongxueban)/Journal of Jilin University (Engineering and Technology Edition);HS
+Jilin Daxue Xuebao (Gongxueban)/Journal of Jilin University (Engineering and Technology Edition);Multi
 JIMD Reports;LS & HS
 Jindal Global Law Review;SSH
 Jinekoloji ve Obstetri Bulteni;HS
@@ -20637,7 +20637,7 @@ Journal (Institute of Health Record & Information Management : 2008);HS
 Journal (National Association for Hospital Development (U.S.));HS
 Journal Africain d'Hepato-Gastroenterologie;HS
 Journal Africain du Cancer;HS
-Journal and Proceedings - Royal Society of New South Wales;HS
+Journal and Proceedings - Royal Society of New South Wales;Multi
 Journal Asiatique;SSH
 Journal Belge de Medecine Physique et de Rehabilitation;HS
 Journal belge de médecine physique et de rhumatologie. Belgisch tijdschrift voor fysische geneeskunde en reumatologie;HS
@@ -20858,7 +20858,7 @@ Journal of Advanced Perioperative Care;HS
 Journal of Advanced Pharmaceutical Technology and Research;LS
 Journal of Advanced Pharmacy Education and Research;LS, SSH & HS
 Journal of Advanced Prosthodontics;HS
-Journal of Advanced Research;HS
+Journal of Advanced Research;Multi
 Journal of Advanced Research in Dynamical and Control Systems;PS
 Journal of Advanced Research in Fluid Mechanics and Thermal Sciences;PS
 Journal of Advanced Research in Law and Economics;SSH
@@ -21155,8 +21155,8 @@ Journal of Applied School Psychology;SSH & HS
 Journal of Applied Science and Engineering;PS
 Journal of Applied Science and Engineering (Taiwan);PS
 Journal of Applied Science in Southern Africa;PS
-Journal of Applied Sciences;HS
-Journal of Applied Sciences Research;HS
+Journal of Applied Sciences;Multi
+Journal of Applied Sciences Research;Multi
 Journal of Applied Security Research;SSH & PS
 Journal of Applied Social Psychology;SSH
 Journal of Applied Social Science;SSH
@@ -21393,7 +21393,7 @@ Journal of Biophotonics;LS & PS
 Journal of Biophysics;LS & PS
 Journal of Bioresources and Bioproducts;LS & PS
 Journal of Biorheology;PS
-Journal of Biosafety and Biosecurity;Multidisciplinary
+Journal of Biosafety and Biosecurity;Multi
 Journal of Bio-Science;LS
 Journal of Bioscience and Bioengineering;LS & PS
 Journal of Biosciences;LS & HS
@@ -22081,7 +22081,7 @@ Journal of Current Chinese Affairs;SSH
 Journal of Current Glaucoma Practice;HS
 Journal of Current Issues and Research in Advertising;SSH
 Journal of Current Ophthalmology;HS
-Journal of Current Science and Technology;HS
+Journal of Current Science and Technology;Multi
 Journal of Current Southeast Asian Affairs;SSH
 Journal of Curriculum and Pedagogy;SSH
 Journal of Curriculum and Teaching;SSH
@@ -23363,7 +23363,7 @@ Journal of Intercultural Communication;SSH
 Journal of Intercultural Communication Research;SSH
 Journal of Intercultural Ethnopharmacology;LS & HS
 Journal of Intercultural Studies;SSH
-Journal of Interdisciplinary and Multidisciplinary Research;HS
+Journal of Interdisciplinary and Multidisciplinary Research;Multi
 Journal of Interdisciplinary Cycle Research;LS & PS
 Journal of Interdisciplinary Economics;SSH
 Journal of Interdisciplinary History;SSH
@@ -23506,7 +23506,7 @@ Journal of King Abdulaziz University, Earth Sciences;PS
 Journal of King Abdulaziz University, Islamic Economics;SSH
 Journal of King Abdulaziz University, Marine Science;LS & PS
 Journal of King Saud University - Computer and Information Sciences;PS
-Journal of King Saud University - Science;HS
+Journal of King Saud University - Science;Multi
 Journal of King Saud University, Engineering Sciences;PS
 Journal of Knee Surgery;HS
 Journal of Knot Theory and its Ramifications;PS
@@ -25081,11 +25081,11 @@ Journal of Science Education and Technology;SSH & PS
 Journal of Science in Sport and Exercise;LS & HS
 Journal of Science Teacher Education;SSH
 Journal of Science: Advanced Materials and Devices;PS
-Journal of Sciences, Islamic Republic of Iran;HS
+Journal of Sciences, Islamic Republic of Iran;Multi
 Journal of scientific & industrial research. C. Biological sciences;HS
-Journal of Scientific and Industrial Research;HS
+Journal of Scientific and Industrial Research;Multi
 Journal of Scientific Computing;PS
-Journal of Scientific Exploration;HS
+Journal of Scientific Exploration;Multi
 Journal of Scientific Instruments;HS
 Journal of Scientometric Research;SSH & PS
 Journal of Scleroderma and Related Disorders;LS & HS
@@ -25129,7 +25129,7 @@ Journal of Sex Research;SSH
 Journal of Sexual Aggression;LS & HS
 Journal of Sexual Medicine;LS & HS
 Journal of Shanghai Jiaotong University (Medical Science);LS & HS
-Journal of Shanghai Jiaotong University (Science);HS
+Journal of Shanghai Jiaotong University (Science);Multi
 Journal of Shanghai Medical University;HS
 Journal of Shanghai University;PS
 Journal of Shellfish Research;LS
@@ -25727,7 +25727,7 @@ Journal of the Indian Academy of Applied Psychology;SSH
 Journal of the Indian Academy of Wood Science;LS & PS
 Journal of the Indian Chemical Society;LS & PS
 Journal of the Indian Dental Association;HS
-Journal of the Indian Institute of Science;HS
+Journal of the Indian Institute of Science;Multi
 Journal of the Indian Mathematical Society;PS
 Journal of the Indian Medical Association;HS
 Journal of the Indian Ocean Region;PS
@@ -25880,8 +25880,8 @@ Journal of the National Comprehensive Cancer Network : JNCCN;HS
 Journal of the National Defence Medical College;HS
 Journal of the National Institute of Information and Communications Technology;PS
 Journal of the National Medical Association;HS
-Journal of the National Science Council of Sri Lanka;HS
-Journal of the National Science Foundation of Sri Lanka;HS
+Journal of the National Science Council of Sri Lanka;Multi
+Journal of the National Science Foundation of Sri Lanka;Multi
 Journal of the Nepal Medical Association;HS
 Journal of the Neurological Sciences;LS & HS
 Journal of the New England Water Works Association;PS
@@ -25942,8 +25942,8 @@ Journal of the Royal Society of Arts;PS
 Journal of the Royal Society of Health;HS
 Journal of the Royal Society of Medicine;HS
 Journal of the Royal Society of Medicine, Supplement;HS
-Journal of the Royal Society of New Zealand;HS
-Journal of the Royal Society of Western Australia;HS
+Journal of the Royal Society of New Zealand;Multi
+Journal of the Royal Society of Western Australia;Multi
 Journal of the Royal Statistical Society Series D: The Statistician;PS
 Journal of the Royal Statistical Society. Series A, (Statistics in Society);SSH & PS
 Journal of the Royal Statistical Society. Series B: Methodological;PS
@@ -26352,7 +26352,7 @@ Journal of Youth and Theology;SSH
 Journal of Youth Development;SSH
 Journal of Youth Studies;SSH
 Journal of Zanjan University of Medical Sciences and Health Services;HS
-Journal of Zhejiang University, Science Edition;HS
+Journal of Zhejiang University, Science Edition;Multi
 Journal of Zhejiang University: Science A;PS
 Journal of Zhejiang University: Science B;LS & HS
 Journal of Zhejiang University: Science C;PS
@@ -26553,7 +26553,7 @@ Kerygma und Dogma;SSH
 Kesmas;HS
 Kettenwirk-Praxis;SSH & PS
 Kew Bulletin;LS
-Kexue Tongbao/Chinese Science Bulletin;HS
+Kexue Tongbao/Chinese Science Bulletin;Multi
 Key Engineering Materials;PS
 Key Issues in Mental Health;HS
 KGK Kautschuk Gummi Kunststoffe;PS
@@ -26645,7 +26645,7 @@ Knitting Technology;SSH & PS
 Knitting Times;PS
 Knjizevna Smotra;SSH
 KNOB Bulletin;SSH
-Know;HS
+Know;Multi
 Knowledge Acquisition;SSH & PS
 Knowledge and Information Systems;PS
 Knowledge and Management of Aquatic Ecosystems;LS & PS
@@ -26830,8 +26830,8 @@ KURRI Progress Report;PS
 Kurume Medical Journal;HS
 Kuste;PS
 Kutafin Law Review;SSH
-Kuwait Journal of Science;HS
-Kuwait Journal of Science and Engineering;HS
+Kuwait Journal of Science;Multi
+Kuwait Journal of Science and Engineering;Multi
 Kuwait Medical Journal;HS
 Kuznechno-Shtampovochnoe Proizvodstvo;PS
 Kuznechno-Shtampovochnoe Proizvodstvo (Obrabotka Metallov Davleniem);PS
@@ -27279,7 +27279,7 @@ LHB: Hydroscience Journal;PS
 Li shi dang an;HS
 LIA Language, Interaction and Acquisition;SSH
 LIA Today;PS
-Liaoning Gongcheng Jishu Daxue Xuebao (Ziran Kexue Ban)/Journal of Liaoning Technical University (Natural Science Edition);HS
+Liaoning Gongcheng Jishu Daxue Xuebao (Ziran Kexue Ban)/Journal of Liaoning Technical University (Natural Science Edition);Multi
 Lias;SSH
 LIBER Quarterly;SSH
 Liberte;SSH
@@ -27647,7 +27647,7 @@ Macromolecules;PS
 Madencilik;PS
 Madera Bosques;LS
 Maderas: Ciencia y Tecnologia;LS & PS
-Maejo International Journal of Science and Technology;HS
+Maejo International Journal of Science and Technology;Multi
 Maetagused;SSH
 Magallania;SSH
 Magazine Antiques;SSH
@@ -27731,7 +27731,7 @@ Malaysian Journal of Music;SSH
 Malaysian Journal of Nutrition;LS & HS
 Malaysian Journal of Pathology;LS & HS
 Malaysian Journal of Public Health Medicine;HS
-Malaysian Journal of Science;HS
+Malaysian Journal of Science;Multi
 Malaysian Journal of Soil Science;LS
 Malaysian Journal of Tropical Geography;SSH & PS
 Malaysian Music Journal;SSH
@@ -28888,7 +28888,7 @@ Middle East Journal of Culture and Communication;SSH
 Middle East Journal of Digestive Diseases;HS
 Middle East Journal of Emergency Medicine;HS
 Middle East Journal of Rehabilitation and Health Studies;HS
-Middle East Journal of Scientific Research;HS
+Middle East Journal of Scientific Research;Multi
 Middle East Law and Governance;SSH
 Middle East Paediatrics;HS
 Middle East Policy;SSH
@@ -28956,7 +28956,7 @@ Mind and Matter;LS & SSH
 Mind and Society;SSH
 Mind, Brain, and Education;LS & SSH
 Mind, Culture, and Activity;LS & SSH
-Mindanao Journal of Science and Technology;HS
+Mindanao Journal of Science and Technology;Multi
 Mindfulness;SSH
 Minds and Machines;SSH & PS
 Mine and Quarry;PS
@@ -29154,7 +29154,7 @@ Modelling, simulation & control. B;PS
 Modern Africa;SSH
 Modern American History;SSH
 Modern and Contemporary France;SSH
-Modern Applied Science;HS
+Modern Applied Science;Multi
 Modern Approaches in Solid Earth Sciences;PS
 Modern Asian Studies;SSH
 Modern Aspects of Immunobiology;LS
@@ -29476,7 +29476,7 @@ Multiple Sclerosis Journal - Experimental, Translational and Clinical;LS & HS
 MULTIs;HS
 Multiscale and Multidisciplinary Modeling, Experiments and Design;PS
 Multiscale Modeling and Simulation;PS
-Multisensory Research;Multidisciplinary
+Multisensory Research;Multi
 Multitudes;SSH
 Multivariate Behavioral Research;SSH, PS & HS
 Multivariate Experimental Clinical Research;HS
@@ -29709,7 +29709,7 @@ National Petroleum News;PS
 National report on subacute care;HS
 National Safety and Health News;PS
 National safety news;PS
-National Science Review;HS
+National Science Review;Multi
 National Strength and Conditioning Association Journal;HS
 National Strength Coaches Association Journal;HS
 National Tax Journal;SSH
@@ -29768,7 +29768,7 @@ Natural Sciences Education;LS, SSH & PS
 Natural Solutions;HS
 Natural Toxins;LS
 Natural Volatiles and Essential Oils;LS
-Nature;HS
+Nature;Multi
 Nature and Culture;SSH
 Nature and Human Activities;PS
 Nature and Resources;SSH
@@ -30268,7 +30268,7 @@ New Review of Applied Expert Systems and Emerging Technologies;SSH
 New Review of Film and Television Studies;SSH
 New Review of Hypermedia and Multimedia;PS
 New Review of Information Networking;SSH & PS
-New Scientist;HS
+New Scientist;Multi
 New scientist and science journal;HS
 New Solutions;HS
 New South Wales public health bulletin;HS
@@ -31070,7 +31070,7 @@ Oftalmologiya;HS
 OGAI Journal (Oesterreichische Gesellschaft fuer Artificial Intelligence);PS
 Ogneupory i Tekhnicheskaya Keramika;PS
 OH. Osteopathic hospitals;HS
-Ohio Journal of Sciences;HS
+Ohio Journal of Sciences;Multi
 Ohio Medicine;HS
 Ohio Northern University law review;HS
 Ohio nurses review;HS
@@ -31675,7 +31675,7 @@ Pacific reporter. Second series;HS
 Pacific Review;SSH
 Pacific Rim International Journal of Nursing Research;HS
 Pacific Rim Property Research Journal;SSH
-Pacific Science;HS
+Pacific Science;Multi
 Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing;HS
 Pacific Viewpoint;PS
 Package Printing;PS
@@ -31745,7 +31745,7 @@ Pakistan Journal of Commerce and Social Science;SSH
 Pakistan Journal of Engineering and Applied Sciences;PS
 Pakistan Journal of Information Management and Libraries;SSH & PS
 Pakistan Journal of Library and Information Science;SSH
-Pakistan Journal of Life and Social Sciences;Multidisciplinary
+Pakistan Journal of Life and Social Sciences;Multi
 Pakistan Journal of Medical and Health Sciences;HS
 Pakistan Journal of Medical Sciences;HS
 Pakistan Journal of Nematology;LS
@@ -31754,7 +31754,7 @@ Pakistan Journal of Ophthalmology;HS
 Pakistan Journal of Pharmaceutical Sciences;LS
 Pakistan Journal of Phytopathology;LS
 Pakistan Journal of Psychological Research;SSH
-Pakistan Journal of Scientific and Industrial Research;HS
+Pakistan Journal of Scientific and Industrial Research;Multi
 Pakistan Journal of Scientific and Industrial Research Series A: Physical Sciences;PS
 Pakistan Journal of Scientific and Industrial Research Series B: Biological Sciences;LS
 Pakistan Journal of Statistics;PS
@@ -31899,7 +31899,7 @@ Papercast;SSH & PS
 Paperi ja Puu/Paper and Timber;LS & PS
 Papers;SSH
 Papers - Regional Science Association;PS
-Papers and Proceedings - Royal Society of Tasmania;HS
+Papers and Proceedings - Royal Society of Tasmania;Multi
 Papers in Applied Geography;SSH & PS
 Papers in Meteorology and Geophysics;PS
 Papers in Palaeontology;PS
@@ -32165,7 +32165,7 @@ Peptide Science;LS & PS
 Peptides;LS
 Per Linguam;SSH
 Per Musi;SSH
-Perception;Multidisciplinary
+Perception;Multi
 Perception and Psychophysics;LS & SSH
 Perceptual and Motor Skills;LS & SSH
 Peremennye Zvezdy;PS
@@ -32469,7 +32469,7 @@ Philippine Agricultural Scientist;LS
 Philippine Journal of Internal Medicine;HS
 Philippine Journal of Nursing;HS
 Philippine journal of obstetrics & gynecology : official publication, Philippine Obstetrical and Gynecological Society;HS
-Philippine Journal of Science;HS
+Philippine Journal of Science;Multi
 Philippine journal of surgery;HS
 Philippine journal of surgery and surgical specialties;HS
 Philippine journal of surgical specialties;HS
@@ -32949,7 +32949,7 @@ PLoS Currents;HS
 PLoS Genetics;LS & HS
 PLoS Medicine;HS
 PLoS Neglected Tropical Diseases;HS
-PLoS ONE;HS
+PLoS ONE;Multi
 PLoS Pathogens;LS
 Ploughshares;SSH
 Plucne Bolesti;HS
@@ -33669,7 +33669,7 @@ Proceedings of the ISAT International Scientific School;PS
 Proceedings of the Jangjeon Mathematical Society;PS
 Proceedings of the Japan Academy Series A: Mathematical Sciences;PS
 Proceedings of the Japan Academy Series B: Physical and Biological Sciences;LS, PS & HS
-Proceedings of the Latvian Academy of Sciences, Section B: Natural, Exact, and Applied Sciences;HS
+Proceedings of the Latvian Academy of Sciences, Section B: Natural, Exact, and Applied Sciences;Multi
 Proceedings of the Linnean Society of London;LS
 Proceedings of the Linnean Society of New South Wales;LS & PS
 Proceedings of the London Mathematical Society;PS
@@ -33679,7 +33679,7 @@ Proceedings of the National Academy of Sciences India Section B - Biological Sci
 Proceedings of the National Academy of Sciences of Belarus, Chemical Series;PS
 Proceedings of the National Academy of Sciences of Belarus, Medical Series;HS
 Proceedings of the National Academy of Sciences of Belarus. Physics and Mathematics Series;PS
-Proceedings of the National Academy of Sciences of the United States of America;HS
+Proceedings of the National Academy of Sciences of the United States of America;Multi
 Proceedings of the National Science Council, Republic of China, Part A: Physical Science and Engineering;PS
 Proceedings of the National Science Council, Republic of China. Part B, Life sciences;HS
 Proceedings of the NIPR Symposium on Antarctic Meteorites. NIPR Symposium on Antarctic Meteorites;PS
@@ -34194,7 +34194,7 @@ Psychotherapeut;SSH
 Psychotherapie und Medizinische Psychologie;HS
 Psychotherapies;SSH & HS
 Psychotherapy;SSH & HS
-Psychotherapy and Politics International;HS
+Psychotherapy and Politics International;Multi
 Psychotherapy and Psychosomatics;SSH & HS
 Psychotherapy in Private Practice;HS
 Psychotherapy Research;SSH
@@ -35044,7 +35044,7 @@ Res Philosophica;SSH
 Res Publica;SSH
 Res Rhetorica;SSH
 Res: Anthropology and Aesthetics;SSH
-Research;HS
+Research;Multi
 Research and Clinical Forums;HS
 Research and clinical studies in headache;HS
 Research and Development (Barrington, Illinois);PS
@@ -36021,7 +36021,7 @@ Revista INVI;SSH & PS
 Revista Juridica;SSH
 Revista Juridica Portucalense;SSH
 Revista Kuba de medicina tropical y parasitología;HS
-Revista Lasallista de Investigacion;HS
+Revista Lasallista de Investigacion;Multi
 Revista Latina de Cardiologia;HS
 Revista Latina de Cardiologia - Euroamericana;HS
 Revista Latina de Comunicacion Social;SSH
@@ -36645,7 +36645,7 @@ Round Table Series - Royal Society of Medicine;HS
 Roux's Archives of Developmental Biology;LS
 Royal Institute of Chemistry, Reviews;PS
 Royal Society of Health Journal;HS
-Royal Society Open Science;HS
+Royal Society Open Science;Multi
 Royal Studies Journal;SSH
 Royal United Services Institution. Journal;SSH
 Rozhledy v Chirurgii;HS
@@ -36819,7 +36819,7 @@ Sabouraudia Journal of Medical and Veterinary Mycology;LS
 Sabrao Journal of Breeding and Genetics;LS
 Sacred Music;SSH
 Sacris Erudiri;SSH
-Sadhana - Academy Proceedings in Engineering Sciences;HS
+Sadhana - Academy Proceedings in Engineering Sciences;Multi
 SADJ : journal of the South African Dental Association = tydskrif van die Suid-Afrikaanse Tandheelkundige Vereniging;HS
 SAE International Journal of Advances and Current Practices in Mobility;PS
 SAE International Journal of Aerospace;PS
@@ -36858,7 +36858,7 @@ Sagvntvm;SSH
 Sahand Communications in Mathematical Analysis;PS
 Sahara J;SSH & HS
 Sahel Medical Journal;HS
-Sains Malaysiana;HS
+Sains Malaysiana;Multi
 Sains Tanah;LS & PS
 Saint Louis University law journal;HS
 Saint Louis University public law review;HS
@@ -37021,7 +37021,7 @@ Scandinavian Journal of Urology and Nephrology;HS
 Scandinavian Journal of Urology and Nephrology, Supplement;HS
 Scandinavian Journal of Work and Organizational Psychology;SSH
 Scandinavian Journal of Work, Environment and Health;HS
-Scandinavian Journal of Work, Environment and Health, Supplement;Multidisciplinary
+Scandinavian Journal of Work, Environment and Health, Supplement;Multi
 Scandinavian Oil - Gas Magazine;PS
 Scandinavian Political Studies;SSH
 Scandinavian Psychoanalytic Review;SSH & HS
@@ -37053,7 +37053,7 @@ Scholarly Assessment Reports;SSH
 Scholarly Communication;SSH
 Scholarly inquiry for nursing practice;HS
 Scholarly Publishing;PS
-Scholarly Research Exchange;HS
+Scholarly Research Exchange;Multi
 Scholarship of Teaching and Learning in Psychology;SSH
 Schole;SSH
 School Dental Service gazette, New Zealand;HS
@@ -37103,9 +37103,9 @@ Schweizerisches Archiv fur Volkskunde;SSH
 Schwestern Revue;HS
 SCI nursing : a publication of the American Association of Spinal Cord Injury Nurses;HS
 SCIAMVS;SSH
-Science;HS
+Science;Multi
 Science & Practice Perspectives;HS
-Science Advances;HS
+Science Advances;Multi
 Science and Education;SSH
 Science and Engineering Ethics;SSH & HS
 Science and Engineering of Composite Materials;PS
@@ -37131,7 +37131,7 @@ Science and Technology of Nuclear Installations;PS
 Science and Technology of Welding and Joining;PS
 Science and Technology Studies;SSH
 Science as Culture;LS, SSH & PS
-Science Bulletin;HS
+Science Bulletin;Multi
 Science China Chemistry;PS
 Science China Earth Sciences;PS
 Science China Information Sciences;PS
@@ -37172,7 +37172,7 @@ Science of Soil and Water Conservation;LS & PS
 Science of Synthesis;PS
 Science of the Total Environment;PS
 Science of Tsunami Hazards;PS
-Science Progress;HS
+Science Progress;Multi
 Science Reports - Tohoku University, Second Series: Geology;PS
 Science Reports - Tohoku University, Seventh Series: Geography;PS
 Science Reports - University of Tsukuba, Institute of Geoscience, Section A;PS
@@ -37186,11 +37186,11 @@ Science Studies;SSH
 Science Technology and Human Values;SSH & PS
 Science Translational Medicine;HS
 Science Vector of Togliatti State University;PS
-Science, Engineering and Health Studies;HS
+Science, Engineering and Health Studies;Multi
 Science, Technology and Development;SSH
-Science, Technology and Society;HS
+Science, Technology and Society;Multi
 Science: Philosophy, History and Education;SSH
-ScienceAsia;HS
+ScienceAsia;Multi
 Science-Fiction Studies;SSH
 ScienceRise: Pharmaceutical Science;LS
 Sciences de l'Eau;PS & HS
@@ -37225,8 +37225,8 @@ Scientia Sinica Mathematica;PS
 Scientia Sinica, Series A: Mathematical, Physical, Astronomical & Technical Sciences;PS
 Scientia Sinica. Series B, Chemical, biological, agricultural, medical & earth sciences / Chung-kuo k'o hsueh yuan, chu pan;PS & HS
 Scientia Sinica: Physica, Mechanica et Astronomica;PS
-Scientific African;HS
-Scientific American;HS
+Scientific African;Multi
+Scientific American;Multi
 Scientific and Technical Information Processing;PS
 Scientific and Technical Journal of Information Technologies, Mechanics and Optics;PS
 Scientific Annals of Computer Science;PS
@@ -37238,7 +37238,7 @@ Scientific Culture;SSH
 Scientific data;SSH & PS
 Scientific Drilling;PS
 Scientific Horizons;LS & SSH
-Scientific Journal of King Faisal University;HS
+Scientific Journal of King Faisal University;Multi
 Scientific Journal of Kurdistan University of Medical Sciences;HS
 Scientific Journal of Silesian University of Technology. Series Transport;PS
 Scientific Mining Journal;PS
@@ -37247,7 +37247,7 @@ Scientific Online Letters on the Atmosphere;PS
 Scientific Papers of the Research Institute for Fruit Growing;LS
 Scientific Papers of the University of Pardubice, Series D: Faculty of Economics and Administration;SSH
 Scientific Programming;PS
-Scientific Reports;HS
+Scientific Reports;Multi
 Scientific Research and Essays;LS, PS & HS
 Scientific Review Engineering and Environmental Sciences;PS
 Scientific Review of Alternative Medicine;HS
@@ -37255,7 +37255,7 @@ Scientific Studies of Reading;SSH
 Scientific Study and Research: Chemistry and Chemical Engineering, Biotechnology, Food Industry;LS & PS
 Scientific Visualization;PS
 Scientifica;LS & PS
-Scientist;HS
+Scientist;Multi
 Scientist and Citizen;PS
 Scientometrics;SSH & PS
 Scienze Regionali;SSH & HS
@@ -37337,7 +37337,7 @@ Sedimentary Geology;PS
 Sedimentology;PS
 Seed Science and Technology;LS
 Seed Science Research;LS
-Seeing and Perceiving;Multidisciplinary
+Seeing and Perceiving;Multi
 Sefarad;SSH
 Segle XX;SSH
 Sei Roka Kango Daigaku kiyo;HS
@@ -37571,7 +37571,7 @@ Shaman;SSH
 Shanghai Archives of Psychiatry;LS & HS
 Shanghai Chest;HS
 Shanghai Haiyun Xueyuan Xuebao/Journal of Shanghai Maritime University;PS
-Shanghai Jiaotong Daxue Xuebao/Journal of Shanghai Jiaotong University;HS
+Shanghai Jiaotong Daxue Xuebao/Journal of Shanghai Jiaotong University;Multi
 Shanghai Jinshu/Shanghai Metals;PS
 Shanghai kou qiang yi xue = Shanghai journal of stomatology;HS
 Shanghai Ligong Daxue Xuebao/Journal of University of Shanghai for Science and Technology;PS
@@ -37587,7 +37587,7 @@ Shengwu Gongcheng Xuebao/Chinese Journal of Biotechnology;LS
 Shengwu Yixue Gongchengxue Zazhi/Journal of Biomedical Engineering;HS
 Shengxue Xuebao/Acta Acustica;PS
 Shenyang Gongye Daxue Xuebao/Journal of Shenyang University of Technology;PS
-Shenyang Jianzhu Daxue Xuebao (Ziran Kexue Ban)/Journal of Shenyang Jianzhu University (Natural Science);HS
+Shenyang Jianzhu Daxue Xuebao (Ziran Kexue Ban)/Journal of Shenyang Jianzhu University (Natural Science);Multi
 Shenzhen Daxue Xuebao (Ligong Ban)/Journal of Shenzhen University Science and Engineering;PS
 Shi xue yue kan;HS
 Shi yan sheng wu xue bao = Journal of experimental biology;HS
@@ -38137,7 +38137,7 @@ Somatosensory and Motor Research;LS
 Somatosensory Research;LS
 Somnologie;HS
 Sonderbande zur Strahlentherapie und Onkologie;HS
-Songklanakarin Journal of Science and Technology;HS
+Songklanakarin Journal of Science and Technology;Multi
 Sophia;SSH
 Sophia Studies in Cross-cultural Philosophy of Traditions and Cultures;SSH
 Sophia(Ecuador);SSH
@@ -38512,7 +38512,7 @@ Springer Aerospace Technology;PS
 Springer Climate;PS
 Springer Geography;SSH & PS
 Springer Geology;PS
-Springer Handbooks;HS
+Springer Handbooks;Multi
 Springer INdAM Series;PS
 Springer Monographs in Mathematics;PS
 Springer Optimization and Its Applications;PS
@@ -38556,7 +38556,7 @@ SpringerBriefs in Public Health;HS
 SpringerBriefs in Regional Science;SSH
 SpringerBriefs in Religious Studies;SSH
 SpringerBriefs in Speech Technology;PS
-SpringerPlus;HS
+SpringerPlus;Multi
 Springs;PS
 Squalen Bulletin of Marine and Fisheries Postharvest and Biotechnology;LS & PS
 Sri Lanka journal of social sciences;SSH
@@ -39437,7 +39437,7 @@ Taiwan Journal of Ophthalmology;HS
 Taiwan Journal of Public Health;HS
 Taiwan Journal of TESOL;SSH
 Taiwan Pharmaceutical Journal;LS
-Taiwan Review;HS
+Taiwan Review;Multi
 Taiwan Water Conservancy;PS
 Taiwan yi xue hui za zhi. Journal of the Formosan Medical Association;HS
 Taiwanese Journal of Agricultural Chemistry and Food Science;LS
@@ -39936,7 +39936,7 @@ The Implant Society : [periodical];HS
 The Indian journal of chest diseases;HS
 The Indian journal of chest diseases & allied sciences;HS
 The Indian journal of child health;HS
-The Innovation;HS
+The Innovation;Multi
 The International journal for hybrid microelectronics;PS
 The International Journal for the Psychology of Religion;SSH
 The International journal of adult orthodontics and orthognathic surgery;HS
@@ -40181,7 +40181,7 @@ The Review of English Studies;SSH
 The Review of gastroenterology;HS
 The Royal Canadian Dental Corps quarterly;HS
 The Sanitarian;HS
-The Sciences;HS
+The Sciences;Multi
 The Scientific basis of medicine annual reviews;HS
 The Scientific monthly;HS
 The Scientific World Journal;LS, PS & HS
@@ -40283,7 +40283,7 @@ Theory and Practice of Second Language Acquisition;SSH
 Theory and Psychology;SSH
 Theory and Research in Education;SSH
 Theory and Research in Social Education;SSH
-Theory and Science;HS
+Theory and Science;Multi
 Theory and Society;SSH
 Theory in Biosciences;LS & PS
 Theory into Practice;SSH
@@ -40318,7 +40318,7 @@ Therapeutic Hypothermia and Temperature Management;HS
 Therapeutic Innovation and Regulatory Science;LS & HS
 Therapeutic Radiology and Oncology;HS
 Therapeutic Research;HS
-Therapeutics and Clinical Risk Management;Multidisciplinary
+Therapeutics and Clinical Risk Management;Multi
 Therapeutics, Pharmacology and Clinical Toxicology;LS & HS
 Therapeutische Umschau und medizinische Bibliographie. Revue thérapeutique et bibliographie médicale;HS
 Therapeutische Umschau. Revue therapeutique;HS
@@ -40379,7 +40379,7 @@ Thyroid;LS & HS
 Thyroid Research;LS & HS
 Thyroidology Clinical and Experimental;LS & HS
 ThyssenKrupp techforum;PS
-Tianjin Daxue Xuebao (Ziran Kexue yu Gongcheng Jishu Ban)/Journal of Tianjin University Science and Technology;HS
+Tianjin Daxue Xuebao (Ziran Kexue yu Gongcheng Jishu Ban)/Journal of Tianjin University Science and Technology;Multi
 Tianranqi Gongye/Natural Gas Industry;PS
 Tichodroma;LS & PS
 Ticks and Tick-borne Diseases;LS & HS
@@ -40488,7 +40488,7 @@ Tokyo Journal of Mathematics;PS
 Toledo Journal of Great Lakes' Law, Science and Policy;SSH & PS
 Tolley's Communications Law;SSH
 Tomography;HS
-Tongji Daxue Xuebao/Journal of Tongji University;HS
+Tongji Daxue Xuebao/Journal of Tongji University;Multi
 Tongxin Xuebao/Journal on Communication;PS
 Tonkie Khimicheskie Tekhnologii;PS
 Tonos Digital;SSH
@@ -40752,7 +40752,7 @@ Transactions of the South African Institute of Electrical Engineers;PS
 Transactions of the South African Philosophical Society;LS, PS & HS
 Transactions of the St. John's Hospital Dermatological Society;HS
 Transactions of the Technical Section of Canadian Pulp and Paper Association;PS
-Transactions of Tianjin University;HS
+Transactions of Tianjin University;Multi
 Transactions on Architecture and Code Optimization;PS
 Transactions on Combinatorics;PS
 Transactions on Data Privacy;PS
@@ -40770,7 +40770,7 @@ Transboundary and Emerging Diseases;LS & HS
 Transcription;LS
 Transcultural Psychiatry;SSH & HS
 Transcultural Studies;SSH
-Transdisciplinary Journal of Engineering and Science;HS
+Transdisciplinary Journal of Engineering and Science;Multi
 Transfer;SSH
 Transfer(Spain);SSH
 Transfers;SSH
@@ -40976,7 +40976,7 @@ Trends in Phytochemical Research;LS & PS
 Trends in Plant Science;LS
 Trends in Psychiatry and Psychotherapy;HS
 Trends in Psychology;SSH
-Trends in Sciences;HS
+Trends in Sciences;Multi
 Trends in Sport Sciences;HS
 Trends in the History of Science;SSH & PS
 Trenie i Iznos;PS
@@ -41045,7 +41045,7 @@ TRW Petroleum Technologies Reports;PS
 Trziste;SSH
 Tselliuloza, Bumaga, Karton/Pulp, Paper, Board;PS
 Tsinghua China Law Review;SSH
-Tsinghua Science and Technology;HS
+Tsinghua Science and Technology;Multi
 TSitologiia i genetika;HS
 Tsitologiya;HS
 Tsukaba Studies in Human Geography;PS
@@ -41309,7 +41309,7 @@ Universia Business Review;SSH
 Universidad y Sociedad;SSH
 Universitas;SSH
 Universitas Psychologica;SSH
-Universitas Scientiarum;HS
+Universitas Scientiarum;Multi
 Universitatis Iagellonicae Acta Mathematica;PS
 University Hospital bulletin;HS
 University Journal of Zoology, Rajshahi University;LS
@@ -41598,7 +41598,7 @@ Vestnik Otorinolaringologii;HS
 Vestnik Pravoslavnogo Sviato-Tikhonovskogo Gumanitarnogo Universiteta, Seria I. Bogoslovie, Filosofia, Religiovedenie;SSH
 Vestnik Rentgenologii i Radiologii;HS
 Vestnik Rossiiskoi Akademii Meditsinskikh Nauk;HS
-Vestnik Rossijkoj Akademii Nauk;HS
+Vestnik Rossijkoj Akademii Nauk;Multi
 Vestnik RUDN. International Relations;SSH
 Vestnik Samarskogo Gosudarstvennogo Tekhnicheskogo Universiteta, Seriya Fiziko-Matematicheskie Nauki;PS
 Vestnik Sankt-Peterburgskogo Universiteta Vostokovedenie i Afrikanistika;SSH
@@ -41892,7 +41892,7 @@ Wageningen Agricultural University Papers;PS
 Waiguo Yuyan yu Wenhua;SSH
 Waikato Journal of Education;SSH
 Wake Forest law review;HS
-Walailak Journal of Science and Technology;HS
+Walailak Journal of Science and Technology;Multi
 Walden's Fiber and Board Report;PS
 Walden's North American Pulp Paper Report;PS
 Walden's Paper Report;PS
@@ -42249,7 +42249,7 @@ World Academy of Sciences Journal;LS
 World Affairs;SSH
 World Agriculture;LS & PS
 World Allergy Organization Journal;LS & HS
-World Applied Sciences Journal;HS
+World Applied Sciences Journal;Multi
 World Archaeology;SSH & PS
 World Bank Country Study;SSH
 World Bank Disaster Risk Management Series;SSH
@@ -42361,7 +42361,7 @@ World Review of Entrepreneurship, Management and Sustainable Development;SSH & P
 World Review of Intermodal Transportation Research;SSH
 World Review of Nutrition and Dietetics;LS & HS
 World Review of Political Economy;SSH
-World Review of Science, Technology and Sustainable Development;HS
+World Review of Science, Technology and Sustainable Development;Multi
 World Scientific Handbook in Financial Economics Series;SSH
 World Scientific Series in Finance;SSH
 World Scientific Series in Global Health Economics and Public Policy;SSH & HS
@@ -42431,7 +42431,7 @@ Wuhan Gongye Daxue Xuebao/Journal of Wuhan University of Technology;SSH
 Wuhan Keji Daxue Xuebao (Ziran Kexue Ban)/Journal of Wuhan University of Science and Technology (Natural Science Edition);PS
 Wuhan Ligong Daxue Xuebao (Jiaotong Kexue Yu Gongcheng Ban)/Journal of Wuhan University of Technology (Transportation Science and Engineering);PS
 Wuhan Ligong Daxue Xuebao/Journal of Wuhan University of Technology;PS
-Wuhan University Journal of Natural Sciences;HS
+Wuhan University Journal of Natural Sciences;Multi
 Wuji Cailiao Xuebao/Journal of Inorganic Materials;PS
 Wulfenia;LS
 Wuli Xuebao/Acta Physica Sinica;PS
@@ -42445,7 +42445,7 @@ Xi Tong Gong Cheng Yu Dian Zi Ji Shu/Systems Engineering and Electronics;PS
 Xi'an Dianzi Keji Daxue Xuebao/Journal of Xidian University;PS
 Xi'an Gonglu Jiaotong Daxue Xuebao/Journal of Xi'an Highway University;SSH
 Xi'an Jianzhu Keji Daxue Xuebao/Journal of Xi'an University of Architecture & Technology;SSH & PS
-Xi'an Shiyou Daxue Xuebao (Ziran Kexue Ban)/Journal of Xi'an Shiyou University, Natural Sciences Edition;HS
+Xi'an Shiyou Daxue Xuebao (Ziran Kexue Ban)/Journal of Xi'an Shiyou University, Natural Sciences Edition;Multi
 Xi'an Shiyou Xueyuan Xuebao/Journal of Xi'an Petroleum Institute (Natural Science Edition);PS
 Xiandai Huagong/Modern Chemical Industry;PS
 Xiangtan Daxue Ziran Kexue Xuebao/Natural Science Journal of Xiangran Unviversity;PS
@@ -42453,7 +42453,7 @@ Xiangtan Kuangye Xueyuan Xuebao/Journal of Xiangtan Mining Institute;PS
 Xiaoxing Weixing Jisuanji Xitong/Mini-Micro Systems;PS
 Xibei Fangzhi Gongxueyuan Xuebao (Journal of Northwest Institute of Textile Science and Technology);SSH & PS
 Xibei Gongye Daxue Xuebao/Journal of Northwestern Polytechnical University;PS
-Xinan Jiaotong Daxue Xuebao/Journal of Southwest Jiaotong University;HS
+Xinan Jiaotong Daxue Xuebao/Journal of Southwest Jiaotong University;Multi
 Xinan Shiyou Xueyuan Xuebao/Journal of Southwestern Petroleum Institute;PS
 Xinjianzhu/New Architecture;PS
 Xinxing Tan Cailiao/New Carbon Materials;PS
@@ -42941,7 +42941,7 @@ Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine];HS
 Zhongnan Daxue Xuebao (Ziran Kexue Ban)/Journal of Central South University (Science and Technology);PS
 Zhongnan Gongye Daxue Xuebao/Journal of Central South University of Technology;PS
 Zhongnan Kuangye Xueyuan Xuebao/Journal of Central-South Institute of Mining and Metallurgy;PS
-Zhongshan Daxue Xuebao/Acta Scientiarum Natralium Universitatis Sunyatseni;HS
+Zhongshan Daxue Xuebao/Acta Scientiarum Natralium Universitatis Sunyatseni;Multi
 Zhoucheng/Bearing;PS
 Zhournal Novoi Ekonomicheskoi Associacii/Journal of the New Economic Association;SSH
 Zhurnal Analiticheskoj Khimii;PS
