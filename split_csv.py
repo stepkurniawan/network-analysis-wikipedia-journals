@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 
 
-filename= "df_edges_full"
+filename= "df_article"
 source_path = "C:\\Users\\steph\\Desktop\\" + filename + ".csv"
 dest_path = '.\\files2\\'+ filename + '\\'+ filename + '_{}.csv'
 
