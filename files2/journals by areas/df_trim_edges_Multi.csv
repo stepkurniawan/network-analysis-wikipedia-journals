@@ -1,0 +1,21 @@
+﻿source;target;weight
+nature;science;51706
+nature;pnas;43631
+pnas;science;33636
+plos one;pnas;14383
+nature;plos one;14283
+plos one;science;11379
+plos one;scientific reports;8180
+pnas;scientific reports;7026
+nature;scientific reports;6368
+science;scientific reports;5079
+nature;new scientist;2366
+pnas;science advances;2246
+nature;science advances;2240
+plos one;royal society open science;2218
+nature;scientific american;2102
+royal society open science;scientific reports;2082
+science;science advances;1913
+science advances;scientific reports;1809
+science;scientific american;1800
+plos one;science advances;1630
